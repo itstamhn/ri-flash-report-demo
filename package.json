@@ -1,0 +1,10 @@
+{
+  "name": "flash-report-interactive-demo",
+  "version": "1.0.0",
+  "description": "Interactive, anonymized demo of the Revenue Insight Flash Report and Account Intelligence platform",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "author": "Barry Witonsky",
+  "license": "UNLICENSED"
+}

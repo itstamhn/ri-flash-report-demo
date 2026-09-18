@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Revenue Insight Account Intelligence Briefs</title><link rel="icon" href="assets/mereo_logo.png"><link rel="stylesheet" href="assets/account-brief.css"></head>
+<body class="index-page"><main class="index-shell">
+<img src="assets/mereo_logo.png" alt="Mereo" class="index-logo">
+<p class="eyebrow">Apex Industrial · Production account set</p><h1>Account Intelligence Briefs</h1>
+<p>Twenty prioritized account briefs generated from Apex Industrial's sourced research and relationship data.</p>
+<div class="index-actions"><a class="button button--primary" href="flash-report/">Open Flash Report</a></div>
+<div class="index-sort"><label for="brief-sort">Sort accounts</label><select id="brief-sort"><option value="name">Alphabetical</option><option value="score">Score: high to low</option></select></div>
+<ul class="brief-index" id="brief-index"><li data-name="stellar propulsion dynamics" data-score="49.9"><a href="brief/stellar-propulsion-dynamics.html">Stellar Propulsion Dynamics</a><span>B - Warm / Monitor · 49.9</span></li><li data-name="meridian propulsion solutions" data-score="60.4"><a href="brief/meridian-propulsion-solutions.html">Meridian Propulsion Solutions</a><span>B - Warm / Monitor · 60.4</span></li><li data-name="velocity-mobility-systems" data-score="76.4"><a href="brief/velocity-mobility-systems.html">Velocity Mobility Systems</a><span>A - Act Now · 76.4</span></li><li data-name="advanced-alloy-technologies" data-score="100.0"><a href="brief/advanced-alloy-technologies.html">Advanced Alloy Technologies</a><span>A - Act Now · 100.0</span></li><li data-name="sentinel defense technologies" data-score="64.2"><a href="brief/sentinel-defense-technologies.html">Sentinel Defense Technologies</a><span>B - Warm / Monitor · 64.2</span></li><li data-name="valor-flight-technologies" data-score="52.9"><a href="brief/valor-flight-technologies.html">Valor Flight Technologies</a><span>B - Warm / Monitor · 52.9</span></li><li data-name="titan-industrial-equipment" data-score="49.3"><a href="brief/titan-industrial-equipment.html">Titan Industrial Equipment</a><span>B - Warm / Monitor · 49.3</span></li><li data-name="astral avionics solutions" data-score="58.2"><a href="brief/astral-avionics-solutions.html">Astral Avionics Solutions</a><span>B - Warm / Monitor · 58.2</span></li><li data-name="pinnacle engine technologies" data-score="61.1"><a href="brief/pinnacle-engine-technologies.html">Pinnacle Engine Technologies</a><span>B - Warm / Monitor · 61.1</span></li><li data-name="aegis ground dynamics" data-score="78.4"><a href="brief/aegis-ground-dynamics.html">Aegis Ground Dynamics</a><span>A - Act Now · 78.4</span></li><li data-name="zenith transit systems" data-score="52.9"><a href="brief/zenith-transit-systems.html">Zenith Transit Systems</a><span>B - Warm / Monitor · 52.9</span></li><li data-name="vector-tactical-communications" data-score="56.7"><a href="brief/vector-tactical-communications.html">Vector Tactical Communications</a><span>B - Warm / Monitor · 56.7</span></li><li data-name="vanguard precision systems" data-score="76.6"><a href="brief/vanguard-precision-systems.html">Vanguard Precision Systems</a><span>A - Act Now · 76.6</span></li><li data-name="orbit space technologies" data-score="69.6"><a href="brief/orbit-space-technologies.html">Orbit Space Technologies</a><span>B - Warm / Monitor · 69.6</span></li><li data-name="horizon-aerospace-defense" data-score="83.4"><a href="brief/horizon-aerospace-defense.html">Horizon Aerospace & Defense</a><span>A - Act Now · 83.4</span></li><li data-name="sovereign power systems" data-score="74.2"><a href="brief/sovereign-power-systems.html">Sovereign Power Systems</a><span>B - Warm / Monitor · 74.2</span></li><li data-name="orion transit dynamics" data-score="38.3"><a href="brief/orion-transit-dynamics.html">Orion Transit Dynamics</a><span>B - Warm / Monitor · 38.3</span></li><li data-name="stratos-rotorcraft-technologies" data-score="45.6"><a href="brief/stratos-rotorcraft-technologies.html">Stratos Rotorcraft Technologies</a><span>B - Warm / Monitor · 45.6</span></li><li data-name="helios turbine systems" data-score="60.6"><a href="brief/helios-turbine-systems.html">Helios Turbine Systems</a><span>B - Warm / Monitor · 60.6</span></li><li data-name="apex motion dynamics" data-score="68.6"><a href="brief/apex-motion-dynamics.html">Apex Motion Dynamics</a><span>B - Warm / Monitor · 68.6</span></li></ul></main><script>
+const list = document.getElementById("brief-index");
+document.getElementById("brief-sort").addEventListener("change", (event) => {
+  const rows = [...list.children];
+  rows.sort(event.target.value === "score" ? (a, b) => Number(b.dataset.score) - Number(a.dataset.score) : (a, b) => a.dataset.name.localeCompare(b.dataset.name));
+  rows.forEach((row) => list.appendChild(row));
+});
+</script><script>
+// Demo Toast Notification Handler
+document.addEventListener('DOMContentLoaded', () => {
+  const toast = document.createElement('div');
+  toast.className = 'demo-toast';
+  toast.id = 'demo-toast';
+  document.body.appendChild(toast);
+
+  let toastTimeout;
+  window.showDemoNotice = (msg) => {
+    toast.textContent = msg || 'Demo Mode: User submissions are disabled in this interactive public portfolio preview.';
+    toast.style.display = 'block';
+    clearTimeout(toastTimeout);
+    toastTimeout = setTimeout(() => { toast.style.display = 'none'; }, 4000);
+  };
+
+  document.querySelectorAll('a[href*="#demo-feedback"], .feedback-button, .event-feedback-link').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      window.showDemoNotice('Demo Mode: In the live production deployment, this opens a prefilled intake form backed by a human review queue.');
+    });
+  });
+});
+</script></body></html>

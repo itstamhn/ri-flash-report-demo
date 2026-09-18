@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48">
+  <rect width="40" height="40" rx="8" fill="#4f46e5" y="4"/>
+  <path d="M12 32 L20 14 L28 32 Z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="15" y1="26" x2="25" y2="26" stroke="#ffffff" stroke-width="2.5"/>
+  <text x="50" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#1e1b4b" letter-spacing="-0.02em">Apex Industrial</text>
+</svg>

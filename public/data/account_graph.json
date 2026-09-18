@@ -1,0 +1,4395 @@
+{
+  "generated": "2026-09-17",
+  "nodes": [
+    {
+      "id": "DEMO-P01",
+      "type": "account",
+      "label": "Aegis Ground Dynamics"
+    },
+    {
+      "id": "DEMO-P01:site:1",
+      "type": "site",
+      "label": "Lima, Ohio",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P01:contact:1",
+      "type": "contact",
+      "label": "Suzanne",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P01:contact:2",
+      "type": "contact",
+      "label": "Alyssa Stone",
+      "role": "Section Manager Advanced Procurement & Subcontracts"
+    },
+    {
+      "id": "DEMO-P01:contact:3",
+      "type": "contact",
+      "label": "George Hawke",
+      "role": "Director, Global Supply Chain Management"
+    },
+    {
+      "id": "DEMO-P01:contact:4",
+      "type": "contact",
+      "label": "Jim Davis",
+      "role": "Managing Director Of Operations"
+    },
+    {
+      "id": "DEMO-P01:contact:5",
+      "type": "contact",
+      "label": "Krishna Jelinski",
+      "role": "Director, Global Supply Chain"
+    },
+    {
+      "id": "DEMO-P01:signal:1",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Aegis Dynamics was awarded the next phase in the Advanced Reconnaissance Vehicle competition, a program advancing toward production with machined-component content, directly in the US ground combat vehicle scope."
+    },
+    {
+      "id": "DEMO-P01:signal:2",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "The FY2027 US defense budget request allocates $16.8 billion for Land Power modernization of armored vehicles, a funded sector expansion directly benefiting Aegis Dynamics's core ground combat vehicle business."
+    },
+    {
+      "id": "DEMO-P01:signal:3",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Aegis Dynamics won a $450M USMC Advanced Reconnaissance Vehicle contract, an announced program award entering production with machined-component content, in scope for US ground vehicles."
+    },
+    {
+      "id": "DEMO-P01:signal:4",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "George Hawke, former Director of Global Supply Chain Management at Aegis Dynamics, is listed as retired, indicating departure of an incumbent buying-center leader without a confirmed successor named in evidence."
+    },
+    {
+      "id": "DEMO-P01:signal:5",
+      "type": "signal",
+      "label": "Competitor adjacency",
+      "summary": "Oshkosh Defense, a named Aegis Dynamics peer, cited readiness gaps and eyed a potential new JLTV deal, signaling supply/production strain among ground vehicle peers that could point to similar vulnerabilities or dual-source openings."
+    },
+    {
+      "id": "DEMO-P01:signal:6",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Army budget materials reveal a sweeping XM30 push with a $4B bet, reflecting sector-level funded growth directly relevant to Aegis Dynamics's ground vehicle segment."
+    },
+    {
+      "id": "DEMO-C11",
+      "type": "account",
+      "label": "Vanguard Precision Systems"
+    },
+    {
+      "id": "DEMO-C11:site:1",
+      "type": "site",
+      "label": "Troy, Alabama",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C11:site:2",
+      "type": "site",
+      "label": "Camden, Arkansas",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C11:site:3",
+      "type": "site",
+      "label": "Ocala, Florida",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C11:site:4",
+      "type": "site",
+      "label": "Lufkin, Texas",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C11:contact:1",
+      "type": "contact",
+      "label": "Danielle Jacobson",
+      "role": "Director of Manufacturing Engineering, Production Operations"
+    },
+    {
+      "id": "DEMO-C11:contact:2",
+      "type": "contact",
+      "label": "Sarah Dye",
+      "role": "Director of Supply Chain Operations"
+    },
+    {
+      "id": "DEMO-C11:contact:3",
+      "type": "contact",
+      "label": "Andrew Wasilewski",
+      "role": "Global Supply Chain Sourcing Manager"
+    },
+    {
+      "id": "DEMO-C11:contact:4",
+      "type": "contact",
+      "label": "William Mahoney",
+      "role": "Manufacturing Operations Planner Manager"
+    },
+    {
+      "id": "DEMO-C11:contact:5",
+      "type": "contact",
+      "label": "Glen Woodard",
+      "role": "Director Global Supply Chain - SOF GLSS"
+    },
+    {
+      "id": "DEMO-C11:signal:1",
+      "type": "signal",
+      "label": "Supplier disruption",
+      "summary": "Army official stated 'quality defects' are delaying deliveries of Lockheed's hypersonic missile program, with manufacturing improvement efforts underway - a direct supplier/manufacturing quality issue affecting production."
+    },
+    {
+      "id": "DEMO-C11:signal:2",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Article explicitly names Vanguard Systems as one of the clearest beneficiaries of surging global defense spending, particularly in air and missile defense."
+    },
+    {
+      "id": "DEMO-C11:signal:3",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Lockheed opened a new scalable factory for the Next Generation Interceptor, an announced capacity expansion within the last 6 months tied to missile defense production ramp."
+    },
+    {
+      "id": "DEMO-C11:signal:4",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Vanguard Systems broke ground on a new Alabama missile production center, a recent, specific capacity expansion announcement."
+    },
+    {
+      "id": "DEMO-C11:signal:5",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "US seeks a 32% boost to the missile defense budget with $23B earmarked specifically for interceptors, a funded sector expansion directly benefiting Vanguard Systems's missile defense segment."
+    },
+    {
+      "id": "DEMO-C11:signal:6",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Vanguard Systems detailed scaling up the Javelin missile supply chain due to increased global demand, indicating a production ramp on an existing missile platform."
+    },
+    {
+      "id": "DEMO-P27",
+      "type": "related_account",
+      "label": "Stratos Rotorcraft Technologies"
+    },
+    {
+      "id": "DEMO-C05",
+      "type": "account",
+      "label": "Sentinel Defense Technologies"
+    },
+    {
+      "id": "DEMO-C05:site:1",
+      "type": "site",
+      "label": "York, Pennsylvania",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C05:site:2",
+      "type": "site",
+      "label": "Aiken, South Carolina",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C05:site:3",
+      "type": "site",
+      "label": "Anniston, Alabama",
+      "status": "Manufacturing registration; activity needs review"
+    },
+    {
+      "id": "DEMO-C05:contact:1",
+      "type": "contact",
+      "label": "Connie Tapia",
+      "role": "VP Procurement"
+    },
+    {
+      "id": "DEMO-C05:contact:2",
+      "type": "contact",
+      "label": "Jason Krug",
+      "role": "Vice President Supply Chain"
+    },
+    {
+      "id": "DEMO-C05:contact:3",
+      "type": "contact",
+      "label": "Patricia Mckiever",
+      "role": "Operations Leadership Development Progam - Subcontracts Administrator"
+    },
+    {
+      "id": "DEMO-C05:contact:4",
+      "type": "contact",
+      "label": "Evan Flower",
+      "role": "NHQ Manufacturing Director"
+    },
+    {
+      "id": "DEMO-C05:contact:5",
+      "type": "contact",
+      "label": "Rob Scott",
+      "role": "Director Strategic Operations"
+    },
+    {
+      "id": "DEMO-C05:signal:1",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Sentinel Defense secured a $535M contract for additional M109A7 Paladin howitzer production, an announced production-rate increase on an existing platform."
+    },
+    {
+      "id": "DEMO-C05:signal:2",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Sentinel Defense announced a $135 million investment in facility upgrades to enhance U.S. military production readiness, indicating capacity expansion tied to demand."
+    },
+    {
+      "id": "DEMO-C05:signal:3",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Sentinel Defense Technologies won a $145.83 million contract to boost M777/M776 cannon tube barrel production, indicating a production ramp for existing platform components."
+    },
+    {
+      "id": "DEMO-C05:signal:4",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Sentinel Defense received a full-rate production order (FRP 6A) for the Amphibious Combat Vehicle program, confirming a production volume ramp with machined-component content."
+    },
+    {
+      "id": "DEMO-C05:signal:5",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Sentinel Defense named Brad Pelachyk as SVP and Chief Global Supply Chain Officer, a buying-center leadership appointment within the last 12 months."
+    },
+    {
+      "id": "DEMO-C05:signal:6",
+      "type": "signal",
+      "label": "Competitor adjacency",
+      "summary": "Oshkosh cites growing readiness gaps under its current Marine JLTV contract, indicating peer land-vehicle manufacturers facing production/supply strain adjacent to BAE's segment."
+    },
+    {
+      "id": "DEMO-P15",
+      "type": "related_account",
+      "label": "BAE Missile Systems"
+    },
+    {
+      "id": "DEMO-C03",
+      "type": "account",
+      "label": "Apex Motion Dynamics"
+    },
+    {
+      "id": "DEMO-C03:site:1",
+      "type": "site",
+      "label": "Loves Park, Illinois",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C03:site:2",
+      "type": "site",
+      "label": "Greer, South Carolina",
+      "status": "Planned manufacturing"
+    },
+    {
+      "id": "DEMO-C03:site:3",
+      "type": "site",
+      "label": "Zeeland, Michigan",
+      "status": "Confirmed manufacturing; current scope needs review"
+    },
+    {
+      "id": "DEMO-C03:contact:1",
+      "type": "contact",
+      "label": "Bill Shumaker",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-C03:contact:2",
+      "type": "contact",
+      "label": "Judd Dew",
+      "role": "Vice President Operations"
+    },
+    {
+      "id": "DEMO-C03:contact:3",
+      "type": "contact",
+      "label": "Sam Kerns",
+      "role": "Vice President of Global Supply Chain"
+    },
+    {
+      "id": "DEMO-C03:contact:4",
+      "type": "contact",
+      "label": "Ferenc Pankotai",
+      "role": "Director of Operations \u2013 Aerospace Flight Deck Controls &  Actuation Systems,  Aerospace and Defense"
+    },
+    {
+      "id": "DEMO-C03:contact:5",
+      "type": "contact",
+      "label": "Greg Waite",
+      "role": "Director, Contract Operations"
+    },
+    {
+      "id": "DEMO-C03:signal:1",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Sam Kerns is listed as VP Supply Chain at Apex Motion; profile indicates an existing/current supply-chain leadership presence relevant to buying-center dynamics, though the exact appointment date is unclear."
+    },
+    {
+      "id": "DEMO-C03:signal:2",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Apex Motion announced a $200 million capacity expansion investment in South Carolina for aerospace manufacturing, indicating a significant production ramp within the last year."
+    },
+    {
+      "id": "DEMO-C03:signal:3",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Analysis describes Apex Motion benefiting from aerospace aftermarket demand strength and a broader sector margin inflection, tying macro aerospace tailwinds directly to Apex Motion's segment performance."
+    },
+    {
+      "id": "DEMO-C03:signal:4",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Apex Motion announced acquisition of Valve Research & Manufacturing to complement its industrial/aerospace valve capabilities, indicating program expansion activity relevant to machined components."
+    },
+    {
+      "id": "DEMO-C03:signal:5",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Apex Motion is building a new 300,000 sq ft facility for aircraft spoiler actuation systems, indicating capacity growth tied to a specific program ramp."
+    },
+    {
+      "id": "DEMO-C03:signal:6",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Shawn McLevige was appointed President of Apex Motion's Aerospace Segment, a division-head-level leadership change that could reset relationships in the served aerospace segment, but is broader than a pure sourcing/procurement role so capped at Medium."
+    },
+    {
+      "id": "DEMO-C02",
+      "type": "account",
+      "label": "Helios Turbine Systems"
+    },
+    {
+      "id": "DEMO-C02:site:1",
+      "type": "site",
+      "label": "Wamego, Kansas",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C02:site:2",
+      "type": "site",
+      "label": "Channelview, Texas",
+      "status": "Confirmed fabrication and machining"
+    },
+    {
+      "id": "DEMO-C02:site:3",
+      "type": "site",
+      "label": "Zebrak, Czech Republic",
+      "status": "Confirmed assembly and test"
+    },
+    {
+      "id": "DEMO-C02:contact:1",
+      "type": "contact",
+      "label": "Shriee Byrns",
+      "role": "Sourcing Specialist/Category Manager"
+    },
+    {
+      "id": "DEMO-C02:contact:2",
+      "type": "contact",
+      "label": "Gabriele Pagliuca",
+      "role": "Director: Global Overhaul Operations"
+    },
+    {
+      "id": "DEMO-C02:contact:3",
+      "type": "contact",
+      "label": "William Watkins",
+      "role": "Director, Global Supply Chain Management"
+    },
+    {
+      "id": "DEMO-C02:contact:4",
+      "type": "contact",
+      "label": "Aaron Perlov",
+      "role": "Global Supply Chain Senior Manager"
+    },
+    {
+      "id": "DEMO-C02:contact:5",
+      "type": "contact",
+      "label": "Reuben Maestas",
+      "role": "Global Supply Chain Sr. Area Manager"
+    },
+    {
+      "id": "DEMO-C02:signal:1",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "LinkedIn profile shows William Watkins as Director, Global Supply Chain Management at Helios Turbine Systems starting January 2024, indicating a relatively recent buying-center leadership placement."
+    },
+    {
+      "id": "DEMO-C02:signal:2",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Wood Mackenzie reports gas turbine prices have soared 195% amid a supply-demand crisis, a sector-wide tailwind directly affecting Helios Turbine Systems' industrial gas turbine segment."
+    },
+    {
+      "id": "DEMO-C02:signal:3",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Utility Dive reports multi-year wait times and rising costs redefining the gas turbine market, a sector-level demand tailwind clearly covering Helios Turbine Systems' segment."
+    },
+    {
+      "id": "DEMO-C02:signal:4",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Coverage of AI-driven demand causing a gas turbine shortage implicates major turbine makers including Helios Turbine Systems' parent Titan Industrial Equipment ecosystem, suggesting capacity strain in the segment, though not company-specific figures."
+    },
+    {
+      "id": "DEMO-C02:signal:5",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Reports that Titan Industrial Equipment (Helios Turbine Systems' parent) is shifting to capacity-led supply planning amid a $51 billion backlog and data-center power surge, indicating demand exceeding capacity at the corporate level."
+    },
+    {
+      "id": "DEMO-C02:signal:6",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Helios Turbine Systems is named as collaborating with Cadence and NVIDIA on AI physics simulation for turbine design, suggesting development-stage program activity relevant to future production, though not yet at production ramp stage."
+    },
+    {
+      "id": "DEMO-P02",
+      "type": "account",
+      "label": "Horizon Aerospace & Defense"
+    },
+    {
+      "id": "DEMO-P02:site:1",
+      "type": "site",
+      "label": "Huntsville, Alabama",
+      "status": "Confirmed integration and production"
+    },
+    {
+      "id": "DEMO-P02:site:2",
+      "type": "site",
+      "label": "Tucson, Arizona",
+      "status": "Confirmed assembly and test"
+    },
+    {
+      "id": "DEMO-P02:site:3",
+      "type": "site",
+      "label": "Portsmouth, Rhode Island",
+      "status": "Confirmed production expansion"
+    },
+    {
+      "id": "DEMO-P02:site:4",
+      "type": "site",
+      "label": "East Camden, Arkansas",
+      "status": "Planned manufacturing; operating status needs review"
+    },
+    {
+      "id": "DEMO-P02:contact:1",
+      "type": "contact",
+      "label": "Ryan Mccombs",
+      "role": "Senior Director, Operations & Supply Chain"
+    },
+    {
+      "id": "DEMO-P02:contact:2",
+      "type": "contact",
+      "label": "Brian Gross",
+      "role": "Director Supply Chain Operations"
+    },
+    {
+      "id": "DEMO-P02:contact:3",
+      "type": "contact",
+      "label": "Brittany Wheeler",
+      "role": "Associate Director of Manufacturing Operations"
+    },
+    {
+      "id": "DEMO-P02:contact:4",
+      "type": "contact",
+      "label": "Ed Osterhoudt",
+      "role": "Associate Director Operations & Supply Chain"
+    },
+    {
+      "id": "DEMO-P02:contact:5",
+      "type": "contact",
+      "label": "Eric Douat",
+      "role": "Associate Director of Operations & Supply Chain - EO/IR Products"
+    },
+    {
+      "id": "DEMO-P02:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "RTX's Q1 earnings call reported record backlog and raised guidance, evidencing demand surge and capacity strain across the company including missile systems."
+    },
+    {
+      "id": "DEMO-P02:signal:2",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "RTX announced a $100 million investment to accelerate radar testing and interceptor production in Rhode Island, adding 150 high-skill jobs, indicating a capacity expansion with concrete figures within the last 6 months."
+    },
+    {
+      "id": "DEMO-P02:signal:3",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "RTX Q1 2026 results explicitly cite double-digit organic sales growth and raised outlook driven by weapons demand, naming the company as a direct beneficiary of the defense spending tailwind."
+    },
+    {
+      "id": "DEMO-P02:signal:4",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "The US Army awarded Horizon Aerospace & Defense a $904.6 million contract modification for low-rate initial production of a next-generation missile defense radar, an announced program entering production."
+    },
+    {
+      "id": "DEMO-P02:signal:5",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "The Pentagon proposed a 188% increase in missile procurement funding, a specific funded sector expansion directly benefiting Horizon Aerospace & Defense's missile systems business."
+    },
+    {
+      "id": "DEMO-P02:signal:6",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "RTX/Horizon Aerospace & Defense signed a Pentagon deal to ramp production of five weapons systems, an announced production-rate increase directly tied to missile programs."
+    },
+    {
+      "id": "DEMO-P14",
+      "type": "account",
+      "label": "Orbit Space Technologies"
+    },
+    {
+      "id": "DEMO-P14:site:1",
+      "type": "site",
+      "label": "Rocket Center, West Virginia",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P14:site:2",
+      "type": "site",
+      "label": "Elkton, Maryland",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P14:site:3",
+      "type": "site",
+      "label": "Promontory and Bacchus, Utah",
+      "status": "Confirmed manufacturing and test"
+    },
+    {
+      "id": "DEMO-P14:contact:1",
+      "type": "contact",
+      "label": "Leslie Strong",
+      "role": "Procurement Manager II"
+    },
+    {
+      "id": "DEMO-P14:contact:2",
+      "type": "contact",
+      "label": "Edgar Sandoval Flores",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P14:contact:3",
+      "type": "contact",
+      "label": "Christy Szeliga",
+      "role": "Senior Manager, Global Supply Chain Procurement, Defense Systems"
+    },
+    {
+      "id": "DEMO-P14:contact:4",
+      "type": "contact",
+      "label": "Keely Ragin",
+      "role": "Global Supply Chain Strategy Director and Chief of Staff"
+    },
+    {
+      "id": "DEMO-P14:contact:5",
+      "type": "contact",
+      "label": "Shanil Modi",
+      "role": "Director of Manufacturing Engineering"
+    },
+    {
+      "id": "DEMO-P14:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Orbit Space Technologies reported a Q2 2026 double earnings beat with a record backlog, indicating strong demand exceeding current delivery capacity within the last 6 months."
+    },
+    {
+      "id": "DEMO-P14:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "8-K filing reports Orbit Space Technologies raised 2026 guidance after reaching a record $105B backlog, reflecting production-rate increases across existing platforms including missile systems."
+    },
+    {
+      "id": "DEMO-P14:signal:3",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "US missile defense budget proposed to increase 32% for FY2027 with $23B earmarked for interceptors, a funded sector expansion directly benefiting Orbit Space Technologies's missile systems segment."
+    },
+    {
+      "id": "DEMO-P14:signal:4",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Air Force announced a B-21 production deal with entry into service targeted for 2027, confirming an active program ramp into production with significant machined-component content."
+    },
+    {
+      "id": "DEMO-P14:signal:5",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Orbit Space Technologies appointed Chantal Sice-Sweger as Vice President of Supply Chain, a direct buying-center leadership appointment within the last 12 months."
+    },
+    {
+      "id": "DEMO-P14:signal:6",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Orbit Space Technologies and the US Air Force are accelerating the Sentinel ICBM program's development momentum via a revised acquisition approach, a development-stage program likely reaching production."
+    },
+    {
+      "id": "DEMO-P16",
+      "type": "account",
+      "label": "Stellar Propulsion Dynamics"
+    },
+    {
+      "id": "DEMO-P16:site:1",
+      "type": "site",
+      "label": "Camden, Arkansas",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P16:site:2",
+      "type": "site",
+      "label": "Orange County, Virginia",
+      "status": "Confirmed manufacturing expansion"
+    },
+    {
+      "id": "DEMO-P16:site:3",
+      "type": "site",
+      "label": "Huntsville, Alabama",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P16:contact:1",
+      "type": "contact",
+      "label": "Crystal Morris",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P16:contact:2",
+      "type": "contact",
+      "label": "Franklin Delange",
+      "role": "Director, Compliance and Supply Chain Operations"
+    },
+    {
+      "id": "DEMO-P16:contact:3",
+      "type": "contact",
+      "label": "Joel Williams",
+      "role": "Manufacturing Operations Manager"
+    },
+    {
+      "id": "DEMO-P16:contact:4",
+      "type": "contact",
+      "label": "Thomas Mcquillan",
+      "role": "Operations Senior Director, Los Angles Site"
+    },
+    {
+      "id": "DEMO-P16:contact:5",
+      "type": "contact",
+      "label": "Alex Mathers",
+      "role": "Director of Operations"
+    },
+    {
+      "id": "DEMO-P16:signal:1",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "LinkedIn shows Mark Tucker as 'Former Chief Operating Officer at Stellar Propulsion Dynamics,' indicating departure of an incumbent operations leader without a confirmed named successor evident in the data."
+    },
+    {
+      "id": "DEMO-P16:signal:2",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "The Pentagon committed $1B in anchor investment to Vector Tactical Communications's rocket-motor spinoff (formerly Stellar Propulsion Dynamics assets) explicitly to expand solid rocket motor production capacity, indicating a funded capacity ramp."
+    },
+    {
+      "id": "DEMO-P16:signal:3",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Vector Tactical Communications announced creation of a new Missile Solutions Company incorporating former Stellar Propulsion Dynamics solid rocket motor assets, backed by a $1B Pentagon investment, representing a major new program/business launch entering production."
+    },
+    {
+      "id": "DEMO-P16:signal:4",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Vector Tactical Communications's missile solutions business (incorporating Stellar Propulsion Dynamics assets) is explicitly named as the beneficiary of a $1B Pentagon-funded expansion of solid rocket motor production capacity."
+    },
+    {
+      "id": "DEMO-P16:signal:5",
+      "type": "signal",
+      "label": "Supplier disruption",
+      "summary": "Reports describe a supply chain crunch in solid rocket motor production affecting manufacturers including Stellar Propulsion Dynamics/Vector Tactical Communications, with resourcing pressure plausible though not confirmed as a specific supplier failure."
+    },
+    {
+      "id": "DEMO-P16:signal:6",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Vector Tactical Communications (via former Stellar Propulsion Dynamics motor business) secured a new $292M Javelin missile motor contract, indicating a production-rate increase / renewed program award."
+    },
+    {
+      "id": "DEMO-P22",
+      "type": "related_account",
+      "label": "Vector Tactical Communications"
+    },
+    {
+      "id": "DEMO-P06",
+      "type": "account",
+      "label": "Sovereign Power Systems"
+    },
+    {
+      "id": "DEMO-P06:site:1",
+      "type": "site",
+      "label": "Graniteville, South Carolina",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P06:site:2",
+      "type": "site",
+      "label": "Mankato, Minnesota",
+      "status": "Confirmed manufacturing and assembly"
+    },
+    {
+      "id": "DEMO-P06:site:3",
+      "type": "site",
+      "label": "Friedrichshafen, Germany",
+      "status": "Confirmed assembly"
+    },
+    {
+      "id": "DEMO-P06:contact:1",
+      "type": "contact",
+      "label": "Yates Bostic",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P06:contact:2",
+      "type": "contact",
+      "label": "Frederico Aldama",
+      "role": "Senior Procurement Category Manager"
+    },
+    {
+      "id": "DEMO-P06:contact:3",
+      "type": "contact",
+      "label": "Ben Adcock",
+      "role": "Procurement Category Manager"
+    },
+    {
+      "id": "DEMO-P06:contact:4",
+      "type": "contact",
+      "label": "Dawn Powell",
+      "role": "Procurement Category Manager"
+    },
+    {
+      "id": "DEMO-P06:contact:5",
+      "type": "contact",
+      "label": "James Walsh",
+      "role": "Procurement Category Manager"
+    },
+    {
+      "id": "DEMO-P06:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Sovereign Power opened a new $24 million logistics/assembly facility in Mankato, MN to expand US generator assembly capacity, part of a broader $100 million US investment, indicating a recent capacity ramp."
+    },
+    {
+      "id": "DEMO-P06:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Sovereign Power announced a $24 million Mankato facility as part of a broader $100 million US manufacturing investment tied to a production ramp for generator/engine products."
+    },
+    {
+      "id": "DEMO-P06:signal:3",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Marcell Schauf holds the role of Executive Vice President Procurement / Chief Procurement Officer at Sovereign Power Power Systems, a buying-center leadership position relevant to supplier sourcing decisions."
+    },
+    {
+      "id": "DEMO-P06:signal:4",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Sovereign Power Power Systems announced a 'high three-digit million' investment to modernize and expand its global production network in response to rising demand and future production volumes."
+    },
+    {
+      "id": "DEMO-P06:signal:5",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Sovereign Power Power Systems is expanding hiring at its Friedrichshafen site under a new labor tariff agreement, indicating elevated production hiring activity."
+    },
+    {
+      "id": "DEMO-P06:signal:6",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Erik Manning holds the title Executive Vice President Operations & Purchasing at a Sovereign Power Power Systems related site (Tettnang), a relevant operations/purchasing leadership role though tenure/change timing is unconfirmed."
+    },
+    {
+      "id": "DEMO-P19",
+      "type": "related_account",
+      "label": "Sovereign Power"
+    },
+    {
+      "id": "DEMO-P24",
+      "type": "account",
+      "label": "Advanced Alloy Technologies"
+    },
+    {
+      "id": "DEMO-P24:site:1",
+      "type": "site",
+      "label": "Margate, Florida",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P24:site:2",
+      "type": "site",
+      "label": "Pageland, South Carolina",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P24:site:3",
+      "type": "site",
+      "label": "Richland, Washington",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P24:site:4",
+      "type": "site",
+      "label": "Chihuahua, Mexico",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P24:contact:1",
+      "type": "contact",
+      "label": "Heather Simmons",
+      "role": "President of Specialty Materials"
+    },
+    {
+      "id": "DEMO-P24:contact:2",
+      "type": "contact",
+      "label": "Raymond Burg",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P24:contact:3",
+      "type": "contact",
+      "label": "Allison Wood",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P24:contact:4",
+      "type": "contact",
+      "label": "Patrick Atkinson",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P24:contact:5",
+      "type": "contact",
+      "label": "Yoshikuni Yoshikawa",
+      "role": "Senior Procurement Manager, Supply Chain - Strategic Sourcing"
+    },
+    {
+      "id": "DEMO-P24:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Advanced Alloy Technologies secured an $80 million facility expansion deal in Mexico, a concrete capacity expansion figure tied to growth demand."
+    },
+    {
+      "id": "DEMO-P24:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Advanced Alloy Technologies announced expanded downstream aerospace manufacturing (machining/inspection) explicitly to support next-generation engine demand, indicating a production-rate increase tied to new engine programs."
+    },
+    {
+      "id": "DEMO-P24:signal:3",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Advanced Alloy Technologies reported margin expansion and double-digit earnings growth driven by aerospace demand, with record backlog cited in related coverage, indicating capacity strain and demand surge."
+    },
+    {
+      "id": "DEMO-P24:signal:4",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Advanced Alloy Technologies Q4 2025 presentation explicitly cites aerospace & defense sector growth as powering the company's margin expansion, naming Advanced Alloy Technologies as a direct beneficiary of the sector tailwind."
+    },
+    {
+      "id": "DEMO-P24:signal:5",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Advanced Alloy Technologies extended its BWXT naval nuclear agreement, suggesting continued/expanded production on a defense platform."
+    },
+    {
+      "id": "DEMO-P24:signal:6",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Report of Advanced Alloy Technologies dangling a $300 million expansion and 130 jobs in Monroe, consistent with a capacity expansion/ramp underway."
+    },
+    {
+      "id": "DEMO-C04",
+      "type": "account",
+      "label": "Meridian Propulsion Solutions"
+    },
+    {
+      "id": "DEMO-C04:site:1",
+      "type": "site",
+      "label": "Indianapolis, Indiana",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C04:contact:1",
+      "type": "contact",
+      "label": "Andrew Poulios",
+      "role": "Assoc. Director Operations/Manufacturing"
+    },
+    {
+      "id": "DEMO-C04:contact:2",
+      "type": "contact",
+      "label": "Teresa Van Niekerk",
+      "role": "Vice President, Chief Procurement Officer"
+    },
+    {
+      "id": "DEMO-C04:contact:3",
+      "type": "contact",
+      "label": "Brian Susemichel",
+      "role": "Associate Director Global Supply Chain"
+    },
+    {
+      "id": "DEMO-C04:contact:4",
+      "type": "contact",
+      "label": "Kristi Jackson",
+      "role": "Global Supply Chain Director"
+    },
+    {
+      "id": "DEMO-C04:contact:5",
+      "type": "contact",
+      "label": "Matthew Carter",
+      "role": "Executive Director, Plant Operations"
+    },
+    {
+      "id": "DEMO-C04:signal:1",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Announced new program award to supply 4040 MX transmissions for Sentinel Defense H\u00e4gglunds CV90 MkIV vehicles entering production, with machined-component content implied."
+    },
+    {
+      "id": "DEMO-C04:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Announced multi-million dollar program award to supply transmissions for next-generation tactical trucks for French Land Forces, a new program entering production."
+    },
+    {
+      "id": "DEMO-C04:signal:3",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Allison reported Q1 2026 net sales of $1,406 million, up 84% year over year, driven substantially by the Dana Off-Highway acquisition, indicating a major surge in scale and demand."
+    },
+    {
+      "id": "DEMO-C04:signal:4",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "LinkedIn profile shows Teresa van Niekerk as Global Chief Procurement Officer at Meridian Propulsion Solutions, a buying-center leadership role relevant to supply base decisions."
+    },
+    {
+      "id": "DEMO-C04:signal:5",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Allison completed acquisition of Dana's Off-Highway Drive & Motion Systems business, forming a $5.5 billion revenue global enterprise, representing a major expansion of off-highway production volume."
+    },
+    {
+      "id": "DEMO-C04:signal:6",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Workers at Allison's Lafayette, Indiana plant voted to authorize a strike, which could signal labor/capacity strain at a key production facility."
+    },
+    {
+      "id": "DEMO-P09",
+      "type": "related_account",
+      "label": "Allison - E-Drive"
+    },
+    {
+      "id": "DEMO-P08",
+      "type": "account",
+      "label": "Velocity Mobility Systems"
+    },
+    {
+      "id": "DEMO-P08:site:1",
+      "type": "site",
+      "label": "Portugal",
+      "status": "Planned manufacturing"
+    },
+    {
+      "id": "DEMO-P08:contact:1",
+      "type": "contact",
+      "label": "Genoveva Bonora",
+      "role": "NAM Services Procurement and Supply Chain Director at Velocity Mobility Systems"
+    },
+    {
+      "id": "DEMO-P08:contact:2",
+      "type": "contact",
+      "label": "Shelia Kingsley",
+      "role": "Site General Manager/Head of Operations"
+    },
+    {
+      "id": "DEMO-P08:contact:3",
+      "type": "contact",
+      "label": "Susie Levesque",
+      "role": "VP of Procurement - Americas"
+    },
+    {
+      "id": "DEMO-P08:contact:4",
+      "type": "contact",
+      "label": "Andrea Jankovic",
+      "role": "Supply Chain Director"
+    },
+    {
+      "id": "DEMO-P08:contact:5",
+      "type": "contact",
+      "label": "Etienne Dumont",
+      "role": "RSC Supply chain and Retrofit Director"
+    },
+    {
+      "id": "DEMO-P08:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Velocity Mobility Systems began construction of a new rolling stock production plant in Portugal, reflecting capacity expansion tied to demand growth."
+    },
+    {
+      "id": "DEMO-P08:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Velocity Mobility Systems won a EUR 107 million contract for WAG-12B locomotives in India, an announced program award entering production with machined-component content."
+    },
+    {
+      "id": "DEMO-P08:signal:3",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Velocity Mobility Systems Americas announced new leadership appointments for Procurement and Services North America, including a new VP of Procurement, directly within the buying-center scope."
+    },
+    {
+      "id": "DEMO-P08:signal:4",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Velocity Mobility Systems delivered Romania's first next-generation electric locomotive for ARF, indicating a new platform reaching production/delivery stage."
+    },
+    {
+      "id": "DEMO-P08:signal:5",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Velocity Mobility Systems announced a contract to supply 47 trains and associated maintenance for new rail corridors in Mexico, an announced program entering production."
+    },
+    {
+      "id": "DEMO-P08:signal:6",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Velocity Mobility Systems won an \u20ac800m AMECA locomotive order, tied to broader sector demand for locomotive equipment, indicating the company is directly benefiting from segment order growth."
+    },
+    {
+      "id": "DEMO-P20",
+      "type": "account",
+      "label": "Valor Flight Technologies"
+    },
+    {
+      "id": "DEMO-P20:site:1",
+      "type": "site",
+      "label": "Amarillo, Texas",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P20:contact:1",
+      "type": "contact",
+      "label": "Troy Atchley",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P20:contact:2",
+      "type": "contact",
+      "label": "Tracey Crespo",
+      "role": "Director Of Operations"
+    },
+    {
+      "id": "DEMO-P20:contact:3",
+      "type": "contact",
+      "label": "Andrew Flintoff",
+      "role": "Manufacturing Engineering Manager"
+    },
+    {
+      "id": "DEMO-P20:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Valor Flight Technologies is building a $632M Army assault aircraft parts factory in North Fort Worth (AllianceTexas) to support ramping production, indicating a significant capacity expansion with dollar figures."
+    },
+    {
+      "id": "DEMO-P20:signal:2",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "The House Armed Services Committee's FY'27 NDAA draft adds funding for Army rotorcraft, directly benefiting helicopter manufacturers like Valor Flight Technologies through funded sector expansion."
+    },
+    {
+      "id": "DEMO-P20:signal:3",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Valor Flight Technologies is accelerating production of the Army's Cheyenne II (MV-75/FLRAA) vertical-lift aircraft, an announced production-rate increase on an existing program with machined-component content."
+    },
+    {
+      "id": "DEMO-P20:signal:4",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Valor Flight Technologies CEO Danny Maldonado states there has been increased interest in the company's products, and Valor Flight Technologies is preparing a production ramp-up, indicating demand exceeding current capacity."
+    },
+    {
+      "id": "DEMO-P20:signal:5",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Valor Flight Technologies announced a new manufacturing facility dedicated to producing the FLRAA (MV-75) for the U.S. Army, confirming an entering-production program with substantial machined-component content."
+    },
+    {
+      "id": "DEMO-P20:signal:6",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Valor Flight Technologies announced a record year for 505 orders in Latin America in 2025, indicating elevated demand though without direct capacity-strain language."
+    },
+    {
+      "id": "DEMO-C06",
+      "type": "account",
+      "label": "Titan Industrial Equipment"
+    },
+    {
+      "id": "DEMO-C06:site:1",
+      "type": "site",
+      "label": "Lafayette, Indiana",
+      "status": "Confirmed manufacturing expansion"
+    },
+    {
+      "id": "DEMO-C06:site:2",
+      "type": "site",
+      "label": "East Peoria, Mapleton, Morton, Pontiac, and Decatur, Illinois",
+      "status": "Confirmed manufacturing footprint"
+    },
+    {
+      "id": "DEMO-C06:site:3",
+      "type": "site",
+      "label": "Peterborough, United Kingdom",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C06:contact:1",
+      "type": "contact",
+      "label": "Kevin Nading",
+      "role": "Senior Manager Manufacturing Operations"
+    },
+    {
+      "id": "DEMO-C06:contact:2",
+      "type": "contact",
+      "label": "Cole Norman",
+      "role": "Procurement Category Manager"
+    },
+    {
+      "id": "DEMO-C06:contact:3",
+      "type": "contact",
+      "label": "Tomas Hanson",
+      "role": "Operations & Supply Chain Manager"
+    },
+    {
+      "id": "DEMO-C06:contact:4",
+      "type": "contact",
+      "label": "Brian Henderson",
+      "role": "Vice President of Operations, Resource Industries Operations & Product (RIOP)"
+    },
+    {
+      "id": "DEMO-C06:contact:5",
+      "type": "contact",
+      "label": "Jesse Miller",
+      "role": "Global Category Procurement Manager"
+    },
+    {
+      "id": "DEMO-C06:signal:1",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Titan Industrial Equipment announced plans to triple power generation capacity and raised its 2030 targets amid a production ramp driven by data-center power demand, an announced production-rate increase with clear machined-component content implications."
+    },
+    {
+      "id": "DEMO-C06:signal:2",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Titan Industrial Equipment announced a $63 billion order backlog in 2026, and reported plans to triple power generation capacity, alongside a $725M facility expansion in Lafayette, Indiana and multiple concurrent CNC/machinist job postings across sites, all indicating significant capacity strain and demand surge."
+    },
+    {
+      "id": "DEMO-C06:signal:3",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Coverage highlights Pam Heminger leading Titan Industrial Equipment's Strategic Procurement & Planning division and supply chain transformation, indicating an active buying-center leadership presence relevant to sourcing decisions."
+    },
+    {
+      "id": "DEMO-C06:signal:4",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Sector-level 2026 outlook coverage describes explosive demand for construction equipment driven by data center and energy infrastructure buildouts, a macro tailwind clearly covering Titan Industrial Equipment's core segment."
+    },
+    {
+      "id": "DEMO-C06:signal:5",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Joe Creed became CEO of Titan Industrial Equipment (effective May 2025) and was subsequently elected Chairman of the Board in January 2026, succeeding Jim Umpleby; a general C-suite change capped at Medium per calibration rules."
+    },
+    {
+      "id": "DEMO-P03",
+      "type": "related_account",
+      "label": "CAT Lafayette"
+    },
+    {
+      "id": "DEMO-P17",
+      "type": "account",
+      "label": "Astral Avionics Solutions"
+    },
+    {
+      "id": "DEMO-P17:site:1",
+      "type": "site",
+      "label": "Taj\u0119cina, Poland",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P17:contact:1",
+      "type": "contact",
+      "label": "Diane Engelkens",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P17:contact:2",
+      "type": "contact",
+      "label": "Daniel Pemble",
+      "role": "Associate Director Supply Chain Management (Supplier Development)"
+    },
+    {
+      "id": "DEMO-P17:contact:3",
+      "type": "contact",
+      "label": "Lisa Young",
+      "role": "Director, Manufacturing Engineering and Operations Strategy"
+    },
+    {
+      "id": "DEMO-P17:contact:4",
+      "type": "contact",
+      "label": "Paul Smits",
+      "role": "Supply Chain Director - Cost and Strategic Sourcing - P&C"
+    },
+    {
+      "id": "DEMO-P17:contact:5",
+      "type": "contact",
+      "label": "Bruce Kaiser",
+      "role": "Vice President, Operations Strategy & Transformation"
+    },
+    {
+      "id": "DEMO-P17:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Astral Avionics Solutions opened an expanded manufacturing facility in Taj\u0119cina, Poland, specifically to boost landing gear production capacity by nearly 25%, a concrete capacity expansion with figures."
+    },
+    {
+      "id": "DEMO-P17:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Collins officially opened its expanded Poland landing gear hub, representing an announced production-rate increase on an existing platform."
+    },
+    {
+      "id": "DEMO-P17:signal:3",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Astral Avionics Solutions was selected by Valor Flight Technologies to supply five onboard systems/components for the U.S. Army's MV-75 FLRAA program, a new program award entering production with machined-component content."
+    },
+    {
+      "id": "DEMO-P17:signal:4",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "RTX (Astral Avionics Solutions's parent) reported a record $268 billion backlog and strong 2025 financial results amid defense sector growth, indicating significant capacity strain across its businesses including Collins."
+    },
+    {
+      "id": "DEMO-P17:signal:5",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Kristopher Pinnow is listed as Vice President Supply Chain at Astral Avionics Solutions; while tenure start is unclear, this is a buying-center leadership role relevant to sourcing decisions."
+    },
+    {
+      "id": "DEMO-P17:signal:6",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Alejandra De Luna was recently promoted to Senior Procurement Manager on the Aerostructures Supply Chain Team at Astral Avionics Solutions, a buying-center leadership change within the past year."
+    },
+    {
+      "id": "DEMO-C07",
+      "type": "account",
+      "label": "Pinnacle Engine Technologies"
+    },
+    {
+      "id": "DEMO-C07:site:1",
+      "type": "site",
+      "label": "Jamestown, New York",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C07:contact:1",
+      "type": "contact",
+      "label": "Ram Sunkari",
+      "role": "Deputy Plant Manager, Director - Pinnacle Engine Valvetrain Technologies"
+    },
+    {
+      "id": "DEMO-C07:contact:2",
+      "type": "contact",
+      "label": "Elizabeth Kuehner",
+      "role": "Sourcing Director"
+    },
+    {
+      "id": "DEMO-C07:contact:3",
+      "type": "contact",
+      "label": "Fernando Herndon",
+      "role": "Executive Director Supply Chain"
+    },
+    {
+      "id": "DEMO-C07:contact:4",
+      "type": "contact",
+      "label": "Kurt Schoenegge",
+      "role": "WorldWide Manufacturing Director"
+    },
+    {
+      "id": "DEMO-C07:contact:5",
+      "type": "contact",
+      "label": "Kevin Andrews",
+      "role": "Director, Global Technical Operations"
+    },
+    {
+      "id": "DEMO-C07:signal:1",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Pinnacle Engine announced a new production/supply deal delivering natural gas generators for large-scale West Texas AI data centers, an entering-production program with machined-engine-component content."
+    },
+    {
+      "id": "DEMO-C07:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Pinnacle Engine' Centum S17 Series power generation product earned an industry award, indicating an active, market-recognized product line requiring ongoing production/manufacturing content."
+    },
+    {
+      "id": "DEMO-C07:signal:3",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Pinnacle Engine announced it is raising 2030 financial targets and making large-engine capacity investments, an explicit capacity-expansion announcement tied to demand growth."
+    },
+    {
+      "id": "DEMO-C07:signal:4",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "Pinnacle Engine is explicitly named as a direct beneficiary of the data-center/AI power demand surge, raising revenue outlook due to sector-wide growth in power generation demand."
+    },
+    {
+      "id": "DEMO-C07:signal:5",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Jennifer Rumsey serves as Chair and CEO of Pinnacle Engine, a general C-suite leadership position (capped at Medium per calibration rules) that could reset broader relationships."
+    },
+    {
+      "id": "DEMO-C07:signal:6",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Rachel Lanning holds the role of Global Sourcing Senior Director at Pinnacle Engine, an active buying-center leadership position covering supplier development, supply chain, and procurement."
+    },
+    {
+      "id": "DEMO-P04",
+      "type": "related_account",
+      "label": "Pinnacle Engine - Meritor"
+    },
+    {
+      "id": "DEMO-P10",
+      "type": "account",
+      "label": "Zenith Transit Systems"
+    },
+    {
+      "id": "DEMO-P10:site:1",
+      "type": "site",
+      "label": "Newton Aycliffe, United Kingdom",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P10:contact:1",
+      "type": "contact",
+      "label": "Jennifer Hathcock",
+      "role": "Director of Manufacturing Operations"
+    },
+    {
+      "id": "DEMO-P10:contact:2",
+      "type": "contact",
+      "label": "Paolo Carosio",
+      "role": "Senior Director of Operations"
+    },
+    {
+      "id": "DEMO-P10:contact:3",
+      "type": "contact",
+      "label": "Chris Singer",
+      "role": "Director - Signalling & Turnkey Procurement - Americas Region"
+    },
+    {
+      "id": "DEMO-P10:contact:4",
+      "type": "contact",
+      "label": "Fabio Carrino",
+      "role": "Head of External Operations - Vehicles North America"
+    },
+    {
+      "id": "DEMO-P10:contact:5",
+      "type": "contact",
+      "label": "Giuseppe Greco",
+      "role": "Head of Platform Procurement USA"
+    },
+    {
+      "id": "DEMO-P10:signal:1",
+      "type": "signal",
+      "label": "Supplier disruption",
+      "summary": "East Midlands Railway reduced services due to numerous problems with new Zenith Transit-built Aurora (Class 810) trains, indicating production/quality issues affecting a named Zenith Transit Systems platform."
+    },
+    {
+      "id": "DEMO-P10:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Zenith Transit is deploying digital signalling on Toronto's Bloor-Danforth subway line enabling a 40% capacity increase, an announced production-rate/program increase on an existing platform."
+    },
+    {
+      "id": "DEMO-P10:signal:3",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Zenith Transit Systems signed a new contract for 20 high-speed trains in Poland, adding to its production backlog and demand pipeline."
+    },
+    {
+      "id": "DEMO-P10:signal:4",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Zenith Transit Systems opened a new $100M rolling stock manufacturing factory in Maryland to supply the North American market, representing a major production ramp with machined-component content."
+    },
+    {
+      "id": "DEMO-P10:signal:5",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "LinkedIn shows Vinay Thombre as Head of Procurement - Rail Vehicles at Zenith Transit Systems (US), indicating an active buying-center leadership role relevant to sourcing decisions."
+    },
+    {
+      "id": "DEMO-P10:signal:6",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Loredana Dumitrescu holds the role of VP, Supply Chain North America and CBTC Procurement at Zenith Transit Systems, representing a buying-center leadership presence in the served North American scope."
+    },
+    {
+      "id": "DEMO-P22:site:1",
+      "type": "site",
+      "label": "Huntsville, Alabama",
+      "status": "Confirmed manufacturing expansion"
+    },
+    {
+      "id": "DEMO-P22:contact:1",
+      "type": "contact",
+      "label": "Andrew Krochmalny",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P22:contact:2",
+      "type": "contact",
+      "label": "Ben Parker",
+      "role": "Manufacturing Manager 3"
+    },
+    {
+      "id": "DEMO-P22:contact:3",
+      "type": "contact",
+      "label": "Cliff Andrews",
+      "role": "Operations Manager"
+    },
+    {
+      "id": "DEMO-P22:contact:4",
+      "type": "contact",
+      "label": "Dave Sanders",
+      "role": "Subcontracts Manager"
+    },
+    {
+      "id": "DEMO-P22:contact:5",
+      "type": "contact",
+      "label": "Jorge Lopes",
+      "role": "Operations Manager"
+    },
+    {
+      "id": "DEMO-P22:signal:1",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Kimberly Ricker was promoted to Vice President of Supply Chain at Vector Tactical Communications Technologies in April 2026, a buying-center leadership appointment within the last 12 months."
+    },
+    {
+      "id": "DEMO-P22:signal:2",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Vector Tactical Communications (with Sierra) was awarded $1.75B by the Space Development Agency for missile defense tracking satellites, an announced program award entering production."
+    },
+    {
+      "id": "DEMO-P22:signal:3",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Vector Tactical Communications is expanding missile motor production with new Arkansas plants for PAC-3 missile propulsion, an announced production-rate increase on an existing platform with machined-component content."
+    },
+    {
+      "id": "DEMO-P22:signal:4",
+      "type": "signal",
+      "label": "Buying-center change",
+      "summary": "Eric Kanner announced joining Vector Tactical Communications as Senior Director, Supply Chain, a new buying-center leadership hire focused on supplier partnerships and operational initiatives."
+    },
+    {
+      "id": "DEMO-P22:signal:5",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "The US is seeking a 32% boost to the missile defense budget (approaching $53B, with $23B for interceptors) and a 188% bump for missile procurement, directly benefiting Vector Tactical Communications's missile systems segment where it holds named contracts (e.g., THAAD, PAC-3)."
+    },
+    {
+      "id": "DEMO-P22:signal:6",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Vector Tactical Communications announced a $1.3B solid rocket motor expansion in Virginia and continued expansion of Huntsville facilities, alongside a $40B backlog and 15% organic growth reported in Q1 2026, reflecting a significant capacity ramp with figures."
+    },
+    {
+      "id": "DEMO-C01",
+      "type": "account",
+      "label": "Orion Transit Dynamics"
+    },
+    {
+      "id": "DEMO-C01:site:1",
+      "type": "site",
+      "label": "Lexington, North Carolina",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-C01:contact:1",
+      "type": "contact",
+      "label": "Joel Beck",
+      "role": "Director - Carshell Weld Manufacturing"
+    },
+    {
+      "id": "DEMO-C01:contact:2",
+      "type": "contact",
+      "label": "Sergii Vasylenko",
+      "role": "Head of Heavy Maintenance Operations"
+    },
+    {
+      "id": "DEMO-C01:contact:3",
+      "type": "contact",
+      "label": "Antoanela Roibu",
+      "role": "Category Manager"
+    },
+    {
+      "id": "DEMO-C01:contact:4",
+      "type": "contact",
+      "label": "Anton Semichev",
+      "role": "Project Operations Manager"
+    },
+    {
+      "id": "DEMO-C01:contact:5",
+      "type": "contact",
+      "label": "Ed Shaner",
+      "role": "Plant Manager"
+    },
+    {
+      "id": "DEMO-C01:signal:1",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Orion Transit Dynamics officially opened a new $220 million passenger rolling stock manufacturing plant in Lexington, NC, representing a major capacity expansion in North America rolling stock operations, directly in scope."
+    },
+    {
+      "id": "DEMO-C01:signal:2",
+      "type": "signal",
+      "label": "Capacity constraint",
+      "summary": "Independent trade press confirms opening of the new $220M Lexington, NC passenger rolling stock factory, corroborating a significant North American capacity expansion."
+    },
+    {
+      "id": "DEMO-C01:signal:3",
+      "type": "signal",
+      "label": "Supplier disruption",
+      "summary": "Active hiring for a Supplier Quality Engineer covering machining, welding, brazing, and fabrication processes suggests possible requalification/resourcing activity related to supplier quality issues, though not confirmed as a specific failure."
+    },
+    {
+      "id": "DEMO-C01:signal:4",
+      "type": "signal",
+      "label": "Supplier disruption",
+      "summary": "Director of Planning, Production Control & Supplier Order Management role based in Folsom, CA (in-scope operations) indicates active supplier order management function, but no specific disruption event is confirmed."
+    },
+    {
+      "id": "DEMO-P27:site:1",
+      "type": "site",
+      "label": "Stratford, Connecticut",
+      "status": "Confirmed manufacturing"
+    },
+    {
+      "id": "DEMO-P27:contact:1",
+      "type": "contact",
+      "label": "Matt Putzer",
+      "role": "Known Apex Industrial relationship contact"
+    },
+    {
+      "id": "DEMO-P27:contact:2",
+      "type": "contact",
+      "label": "Ray Burke",
+      "role": "Senior Operations Program Manager"
+    },
+    {
+      "id": "DEMO-P27:contact:3",
+      "type": "contact",
+      "label": "Andrew White",
+      "role": "Program Manager CH-53K Tooling Procurement Program"
+    },
+    {
+      "id": "DEMO-P27:contact:4",
+      "type": "contact",
+      "label": "Brian Teixeira",
+      "role": "Manufacturing Engineering Manager, Avionics Product Center"
+    },
+    {
+      "id": "DEMO-P27:contact:5",
+      "type": "contact",
+      "label": "Caitlin Sanctuary Pattison",
+      "role": "Program Operations Manager"
+    },
+    {
+      "id": "DEMO-P27:signal:1",
+      "type": "signal",
+      "label": "Supplier disruption",
+      "summary": "Reported parts/supply shortages are hindering Canadian Forces Cyclone (Stratos Rotorcraft Technologies-built) helicopter operations, delaying readiness until 2029, though the specific supplier cause for machined components is unconfirmed."
+    },
+    {
+      "id": "DEMO-P27:signal:2",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "The House Armed Services Committee's FY'27 NDAA draft adds funding for more Black Hawk helicopters for the Army, directly naming Stratos Rotorcraft Technologies's platform as a beneficiary of funded defense sector expansion."
+    },
+    {
+      "id": "DEMO-P27:signal:3",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Stratos Rotorcraft Technologies was awarded a $10.9B Navy contract to build up to 99 CH-53K King Stallion helicopters, a major production-rate increase and program award with significant machined-component content."
+    },
+    {
+      "id": "DEMO-P27:signal:4",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Stratos Rotorcraft Technologies was awarded a new Army contract for Black Hawk modernization, indicating continued production and upgrade work on an existing platform."
+    },
+    {
+      "id": "DEMO-P27:signal:5",
+      "type": "signal",
+      "label": "New program or production ramp",
+      "summary": "Stratos Rotorcraft Technologies is studying a European production line for the NATO Next Generation Rotorcraft Capability (NGRC), a development-stage program that could reach production within the planning horizon."
+    },
+    {
+      "id": "DEMO-P27:signal:6",
+      "type": "signal",
+      "label": "Market tailwind",
+      "summary": "US military helicopter deliveries rose 13 percent in 2025, a sector-level tailwind directly covering Stratos Rotorcraft Technologies's military rotorcraft segment."
+    },
+    {
+      "id": "trend:new-program-or-production-ramp",
+      "type": "trend",
+      "label": "New program or production ramp",
+      "account_count": 19
+    },
+    {
+      "id": "trend:market-tailwind",
+      "type": "trend",
+      "label": "Market tailwind",
+      "account_count": 14
+    },
+    {
+      "id": "trend:buying-center-change",
+      "type": "trend",
+      "label": "Buying-center change",
+      "account_count": 14
+    },
+    {
+      "id": "trend:competitor-adjacency",
+      "type": "trend",
+      "label": "Competitor adjacency",
+      "account_count": 2
+    },
+    {
+      "id": "trend:supplier-disruption",
+      "type": "trend",
+      "label": "Supplier disruption",
+      "account_count": 5
+    },
+    {
+      "id": "trend:capacity-constraint",
+      "type": "trend",
+      "label": "Capacity constraint",
+      "account_count": 18
+    },
+    {
+      "id": "event:https-www-sec-gov-archives-edgar-data-101829-000114036126036662-ef20082011-8k-htm",
+      "type": "event",
+      "label": "Executive leadership succession at Pratt & Whitney announced",
+      "kind": "People movement",
+      "summary": "In an SEC Form 8-K filing, RTX announced that Shane Eddy will step down as president of Pratt & Whitney on January 1, 2027, with Jill Albertelli, current president of Military Engines, named to succeed him as president."
+    },
+    {
+      "id": "event:https-www-defense-gov-news-contracts-contract-article-3901412",
+      "type": "event",
+      "label": "CIRCM full-rate production contract awarded",
+      "kind": "Relevant news",
+      "summary": "The U.S. Army awarded Orbit Space Technologies a nine-year, $4.8 billion contract for full-rate production of the Common Infrared Countermeasures (CIRCM) system to protect military helicopters."
+    },
+    {
+      "id": "event:https-www-railwaygazette-com-traction-and-rolling-stock-velocity mobility systems-to-supply-battery-electric-trains-for-transpennine-express",
+      "type": "event",
+      "label": "TransPennine Express battery-electric train contract awarded",
+      "kind": "Relevant news",
+      "summary": "Velocity Mobility Systems secured a \u20ac1.2 billion contract with TransPennine Express to supply and maintain 29 battery-electric trains manufactured at Velocity Mobility Systems's Derby Litchurch Lane facility, supporting over 350 skilled manufacturing jobs."
+    },
+    {
+      "id": "event:https-www-defense-gov-news-contracts-contract-article-3905103",
+      "type": "event",
+      "label": "Armored Multi-Purpose Vehicle (AMPV) contract modification",
+      "kind": "Relevant news",
+      "summary": "Sentinel Defense Technologies was awarded an $818.4 million contract modification for Armored Multi-Purpose Vehicles (AMPV), with manufacturing and assembly work in York, Pennsylvania through May 2030."
+    },
+    {
+      "id": "event:https-www-marketbeat-com-stocks-nyse-cat-news-titan industrial equipment-powers-ahead-with-turbine-capacity-additions",
+      "type": "event",
+      "label": "Helios Turbine Systems packaging capacity and Broken Arrow facility ramp",
+      "kind": "Relevant news",
+      "summary": "Titan Industrial Equipment reported turbine capacity additions on schedule to meet surge data center demand, repurposing its Wamego facility and advancing a $32 million expansion at Helios Turbine Systems in Broken Arrow, Oklahoma."
+    },
+    {
+      "id": "event:https-www-pinnacle engine-com-news-releases-2026-09-14-pinnacle engine-expands-battery-manufacturing-in-europe",
+      "type": "event",
+      "label": "European commercial vehicle battery manufacturing expansion",
+      "kind": "Relevant news",
+      "summary": "At IAA Transportation 2026, Pinnacle Engine and Accelera announced plans to expand European manufacturing for its Advanced LFP battery platform at a facility in Spain to supply heavy-duty commercial truck and bus fleets."
+    },
+    {
+      "id": "event:https-www-defense-gov-news-contracts-contract-article-3905102",
+      "type": "event",
+      "label": "PrSM Increment 2 early operational capability contract awarded",
+      "kind": "Relevant news",
+      "summary": "The U.S. Army awarded Vanguard Systems a $1.2 billion contract for the early operational capability of the Precision Strike Missile (PrSM) Increment 2 system, featuring a multi-mode seeker to engage maritime and time-sensitive targets through September 2031."
+    },
+    {
+      "id": "event:https-www-janes-com-defence-news-news-detail-south-korea-selects-mh-60r-for-moh-ii",
+      "type": "event",
+      "label": "South Korea MH-60R Seahawk maritime helicopter selection",
+      "kind": "Relevant news",
+      "summary": "South Korea's DAPA formally selected Stratos Rotorcraft Technologies's MH-60R Seahawk for its $2.39 billion Maritime Operational Helicopter-II program, replacing its legacy Lynx fleet through 2032."
+    },
+    {
+      "id": "event:https-news-bellflight-com-en-us-2026-09-16-valor flight technologies-marks-start-of-nigeria-ah-1z-production-at-amarillo-center",
+      "type": "event",
+      "label": "Nigeria AH-1Z Viper production launch in Amarillo",
+      "kind": "Relevant news",
+      "summary": "Valor Flight Technologies Textron hosted the Nigerian Air Force at its Amarillo Assembly Center in Texas to mark the formal start of assembly on 12 AH-1Z Viper attack helicopters under a foreign military sales contract running through 2029."
+    },
+    {
+      "id": "event:https-www-aegis dynamics-com-news-sterling-heights-modernization-ribbon-cutting-2026",
+      "type": "event",
+      "label": "Sterling Heights modernized headquarters ribbon-cutting",
+      "kind": "Relevant news",
+      "summary": "Aegis Ground Dynamics celebrated the ribbon-cutting of its multiyear, multimillion-dollar modernized headquarters in Sterling Heights, Michigan, supporting nearly 2,000 employees and ground-combat vehicle programs."
+    },
+    {
+      "id": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-propulsion-innovation-center-elkton",
+      "type": "event",
+      "label": "Elkton propulsion innovation center opened",
+      "kind": "Relevant news",
+      "summary": "Orbit Space Technologies opened a 57,000-square-foot Propulsion Innovation Center in Elkton, Maryland housing 250 engineers, representing part of a $100 million investment to increase solid rocket motor production capacity."
+    },
+    {
+      "id": "event:https-www-vector tactical communications-com-newsroom-press-release-2026-09-vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production",
+      "type": "event",
+      "label": "PAC-3 MSE rocket motor production award",
+      "kind": "Relevant news",
+      "summary": "Vector Tactical Communications announced an undefinitized contract award from Vanguard Systems valued at up to $4.7 billion over seven years for mass production of propulsion systems for PAC-3 MSE interceptors, expanding rocket motor production capacity at Stellar Propulsion Dynamics facilities in Camden, Arkansas."
+    },
+    {
+      "id": "event:https-www-defense-gov-news-contracts-contract-article-3900344",
+      "type": "event",
+      "label": "JASSM and LRASM large lot production modification",
+      "kind": "Relevant news",
+      "summary": "Vanguard Precision Systems was awarded an $825.98 million modification for Large Lot procurement of JASSM and LRASM missiles, with manufacturing work in Orlando, Florida through July 2030."
+    },
+    {
+      "id": "event:https-www-defense-gov-news-contracts-contract-article-3900346",
+      "type": "event",
+      "label": "Mk 45 Mod 4 naval gun overhaul contract awarded",
+      "kind": "Relevant news",
+      "summary": "The U.S. Navy awarded Sentinel Defense Technologies a $38.2 million contract modification for the overhaul of two Mk 45 Mod 4 naval gun systems, with work performed in Louisville, Kentucky through March 2028."
+    },
+    {
+      "id": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-east-gate-3-facility-layton-utah-b21",
+      "type": "event",
+      "label": "B-21 Raider East Gate 3 manufacturing facility opened",
+      "kind": "Relevant news",
+      "summary": "Orbit Space Technologies officially opened its 845,000-square-foot East Gate 3 manufacturing facility in Layton, Utah to accelerate production and flight-testing of the B-21 Raider stealth bomber, supporting up to 1,500 advanced aerospace jobs by 2032."
+    },
+    {
+      "id": "event:https-defence-industry-eu-xm30-prototype-evaluations-aegis dynamics-rheinmetall",
+      "type": "event",
+      "label": "XM30 prototype troop-testing delivery",
+      "kind": "Relevant news",
+      "summary": "The U.S. Army prepared for the troop-testing phase of the Bradley replacement vehicle (XM30), with Aegis Ground Dynamics having delivered its first prototypes for soldier touchpoint evaluation."
+    }
+  ],
+  "edges": [
+    {
+      "from": "DEMO-P01",
+      "to": "DEMO-P01:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://tacom.army.mil/jsmc-lima"
+    },
+    {
+      "from": "DEMO-P01:contact:1",
+      "to": "DEMO-P01",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P01:contact:2",
+      "to": "DEMO-P01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/alyssa-stone"
+    },
+    {
+      "from": "DEMO-P01:contact:3",
+      "to": "DEMO-P01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/george-hawke-68989221"
+    },
+    {
+      "from": "DEMO-P01:contact:4",
+      "to": "DEMO-P01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/jim-davis-2a51766a"
+    },
+    {
+      "from": "DEMO-P01:contact:5",
+      "to": "DEMO-P01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/krishna-jelinski-7b868433"
+    },
+    {
+      "from": "DEMO-P01:signal:1",
+      "to": "DEMO-P01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.aegisdynamics-demo.com/general-dynamics-land-systems-awarded-agreement-for-next-phase-in-advanced-reconnaissance-vehicle-competition/"
+    },
+    {
+      "from": "DEMO-P01:signal:2",
+      "to": "DEMO-P01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.thedefensenews.com/US-Defense-Budget-Requests-168-Billion-for-Land-Power-Modernization-of-Armored-Vehicles-in-FY2027/"
+    },
+    {
+      "from": "DEMO-P01:signal:3",
+      "to": "DEMO-P01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.c4defence.com/en/aegis dynamics-usmc-arv-contract/"
+    },
+    {
+      "from": "DEMO-P01:signal:4",
+      "to": "DEMO-P01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/george-hawke-68989221"
+    },
+    {
+      "from": "DEMO-P01:signal:5",
+      "to": "DEMO-P01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://breakingdefense.com/2026/06/oshkosh-eyes-potential-marine-jltv-deal-citing-growing-readiness-gaps-under-current-contract/"
+    },
+    {
+      "from": "DEMO-P01:signal:6",
+      "to": "DEMO-P01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://breakingdefense.com/2026/04/army-unveils-sweeping-xm30-push-4b-bet-on-ngc2-in-newly-released-budget-materials/"
+    },
+    {
+      "from": "DEMO-C11",
+      "to": "DEMO-C11:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.vanguardsystems-demo.com/en-us/who-we-are/business-areas/missiles-and-fire-control/troy.html"
+    },
+    {
+      "from": "DEMO-C11",
+      "to": "DEMO-C11:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.vanguardsystems-demo.com/en-us/who-we-are/business-areas/missiles-and-fire-control/camden.html"
+    },
+    {
+      "from": "DEMO-C11",
+      "to": "DEMO-C11:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.vanguardsystems-demo.com/en-us/who-we-are/business-areas/missiles-and-fire-control/ocala.html"
+    },
+    {
+      "from": "DEMO-C11",
+      "to": "DEMO-C11:site:4",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.vanguardsystems-demo.com/en-us/who-we-are/business-areas/missiles-and-fire-control/lufkin.html"
+    },
+    {
+      "from": "DEMO-C11:contact:1",
+      "to": "DEMO-C11",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/danielle-jacobson-4b3a31b6"
+    },
+    {
+      "from": "DEMO-C11:contact:2",
+      "to": "DEMO-C11",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/sarah-dye-14b9b72a"
+    },
+    {
+      "from": "DEMO-C11:contact:3",
+      "to": "DEMO-C11",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/andrew-wasilewski-7b155b1a"
+    },
+    {
+      "from": "DEMO-C11:contact:4",
+      "to": "DEMO-C11",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/williamcmahoney"
+    },
+    {
+      "from": "DEMO-C11:contact:5",
+      "to": "DEMO-C11",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/glen-w-78434020"
+    },
+    {
+      "from": "DEMO-C11:signal:1",
+      "to": "DEMO-C11",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://news.bloomberglaw.com/federal-contracting/army-says-quality-defects-slowing-lockheed-hypersonic-missile"
+    },
+    {
+      "from": "DEMO-C11:signal:2",
+      "to": "DEMO-C11",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://congress.net/lockheed-martin-lmt-missile-defense-portfolio-positions-company-for-long-term-growth/"
+    },
+    {
+      "from": "DEMO-C11:signal:3",
+      "to": "DEMO-C11",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.airandspaceforces.com/lockheed-opens-scalable-facility-next-generation-interceptor/"
+    },
+    {
+      "from": "DEMO-C11:signal:4",
+      "to": "DEMO-C11",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://205focus.com/lockheed-martin-breaks-ground-on-new-alabama-missile-production-center-1052"
+    },
+    {
+      "from": "DEMO-C11:signal:5",
+      "to": "DEMO-C11",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.shephardmedia.com/news/defence-notes/us-seeks-to-increase-missile-defence-budget-by-32-in-fy2027-approaching-53-billion/"
+    },
+    {
+      "from": "DEMO-C11:signal:6",
+      "to": "DEMO-C11",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.vanguardsystems-demo.com/en-us/news/features/2026/scaling-up-javelin-supply-chain-redefining-ramped-missile-production.html"
+    },
+    {
+      "from": "DEMO-C11",
+      "to": "DEMO-P27",
+      "type": "DISTINCT_DIVISION",
+      "confidence": "High",
+      "rationale": "Vanguard Systems - Fire & Missile Control covers missile defense products (THAAD, PAC-3, hypersonics) while Stratos Rotorcraft Technologies is a distinct helicopter-manufacturing business unit (CH-53K, Black Hawk, S-92), with evidence explicitly noting Stratos Rotorcraft Technologies is a Vanguard Systems subsidiary under the RMS segment operating separate platforms, contracts, and facilities.",
+      "source_url": "https://news.vanguardsystems-demo.com/2025-09-26-Lockheed-Martin-Stratos Rotorcraft Technologies-Receives-Five-Year-Contract-to-Build-Up-to-99-CH-53K-R-Heavy-Lift-Helicopters-for-the-U-S-Marine-Corps"
+    },
+    {
+      "from": "DEMO-C05",
+      "to": "DEMO-C05:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.epa.gov/system/files/documents/2023-06/BAE%20LTS%20%20Report%205-23-2023.pdf"
+    },
+    {
+      "from": "DEMO-C05",
+      "to": "DEMO-C05:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.sccommerce.com/sc-industry-directory/company/d7c57a0a-e4a6-48d3-aa10-6af6d84b0043"
+    },
+    {
+      "from": "DEMO-C05",
+      "to": "DEMO-C05:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.highergov.com/awardee/bae-systems-land-armaments-l-p-10115625/"
+    },
+    {
+      "from": "DEMO-C05:contact:1",
+      "to": "DEMO-C05",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/connie-tapia-28034020"
+    },
+    {
+      "from": "DEMO-C05:contact:2",
+      "to": "DEMO-C05",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/jason-krug-05389965"
+    },
+    {
+      "from": "DEMO-C05:contact:3",
+      "to": "DEMO-C05",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/patricia-mckiever-ba238a14a"
+    },
+    {
+      "from": "DEMO-C05:contact:4",
+      "to": "DEMO-C05",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/evan-flower-27185148"
+    },
+    {
+      "from": "DEMO-C05:contact:5",
+      "to": "DEMO-C05",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/rob-scott-pmp-078354233"
+    },
+    {
+      "from": "DEMO-C05:signal:1",
+      "to": "DEMO-C05",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.ir-ia.com/news/us-army-awards-bae-systems-535-million-contract-for-paladin-self-propelled-howitzers-and-ammunition-carriers/"
+    },
+    {
+      "from": "DEMO-C05:signal:2",
+      "to": "DEMO-C05",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.morningstar.com/news/pr-newswire/20260520ne64191/bae-systems-invests-135-million-in-facility-upgrades-to-enhance-us-military-readiness"
+    },
+    {
+      "from": "DEMO-C05:signal:3",
+      "to": "DEMO-C05",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://thedefensepost.com/2026/04/06/bae-m777-barrel-production/"
+    },
+    {
+      "from": "DEMO-C05:signal:4",
+      "to": "DEMO-C05",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://news.europawire.eu/bae-systems-advances-amphibious-combat-vehicle-programme-with-frp-6a-order/eu-press-release/2026/01/15/15/23/45/168040/?amp="
+    },
+    {
+      "from": "DEMO-C05:signal:5",
+      "to": "DEMO-C05",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.businesswire.com/news/home/20251124545595/en/BAE-Systems-Names-Brad-Pelachyk-Senior-Vice-President-and-Chief-Global-Supply-Chain-Officer"
+    },
+    {
+      "from": "DEMO-C05:signal:6",
+      "to": "DEMO-C05",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://breakingdefense.com/2026/06/oshkosh-eyes-potential-marine-jltv-deal-citing-growing-readiness-gaps-under-current-contract/"
+    },
+    {
+      "from": "DEMO-C05",
+      "to": "DEMO-P15",
+      "type": "DISTINCT_DIVISION",
+      "confidence": "High",
+      "rationale": "The two accounts report distinct product lines (Land & Armaments' Paladin, Bradley, ACV, M777 ground vehicles vs. Missile Systems' THAAD seekers, APKWS, Trident II D5, Virginia Payload Module missile tubes), consistent with separate business units, though both share corporate-level events like the same $135M facility investment and Brad Pelachyk appointment, indicating they roll up to the same parent but are operationally distinct divisions.",
+      "source_url": "https://www.prnewswire.com/news-releases/bae-systems-and-us-department-of-war-sign-agreement-to-quadruple-thaad-seeker-production-302724094.html"
+    },
+    {
+      "from": "DEMO-C03",
+      "to": "DEMO-C03:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.apexmotion-demo.com/press-release/apex motion-celebrates-completion-of-aerospace-maintenance-repair-and-overhaul-mro-facility-transformation-in-loves-park-illinois/"
+    },
+    {
+      "from": "DEMO-C03",
+      "to": "DEMO-C03:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.apexmotion-demo.com/press-release/apex motion-to-build-a-300000-square-foot-manufacturing-facility-for-aircraft-spoiler-actuation-systems-in-spartanburg-county-south-carolina/"
+    },
+    {
+      "from": "DEMO-C03",
+      "to": "DEMO-C03:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.hollandsentinel.com/story/business/manufacturing/2021/04/28/apex motion-inc-expanding-operations-zeeland/4853511001/"
+    },
+    {
+      "from": "DEMO-C03:contact:1",
+      "to": "DEMO-C03",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-C03:contact:2",
+      "to": "DEMO-C03",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/judd-dew-0a214641"
+    },
+    {
+      "from": "DEMO-C03:contact:3",
+      "to": "DEMO-C03",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/sam-kerns-b4a9a811"
+    },
+    {
+      "from": "DEMO-C03:contact:4",
+      "to": "DEMO-C03",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/ferencpankotai"
+    },
+    {
+      "from": "DEMO-C03:contact:5",
+      "to": "DEMO-C03",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/gregwaite"
+    },
+    {
+      "from": "DEMO-C03:signal:1",
+      "to": "DEMO-C03",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/sam-kerns-b4a9a811"
+    },
+    {
+      "from": "DEMO-C03:signal:2",
+      "to": "DEMO-C03",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://airpronews.com/2025/09/19/apex motion-inc-200-million-aerospace-investment-in-south-carolina/"
+    },
+    {
+      "from": "DEMO-C03:signal:3",
+      "to": "DEMO-C03",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://everyticker.com/quote/WWD/apex motion-s-strategic-metamorphosis-how-portfolio-surgery-and-aerospace-aftermarket-dominance-are-driving-a-margin-inflection-nasdaq-wwd"
+    },
+    {
+      "from": "DEMO-C03:signal:4",
+      "to": "DEMO-C03",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.apexmotion-demo.com/press-release/apex motion-announces-agreement-to-acquire-valve-research-manufacturing/"
+    },
+    {
+      "from": "DEMO-C03:signal:5",
+      "to": "DEMO-C03",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.apexmotion-demo.com/press-release/apex motion-to-build-a-300000-square-foot-manufacturing-facility-for-aircraft-spoiler-actuation-systems-in-spartanburg-county-south-carolina/"
+    },
+    {
+      "from": "DEMO-C03:signal:6",
+      "to": "DEMO-C03",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://finance.yahoo.com/news/shawn-mclevige-appointed-president-apex motion-201500607.html"
+    },
+    {
+      "from": "DEMO-C02",
+      "to": "DEMO-C02:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.linkedin.com/posts/solarturbines_solar-turbines-new-wamego-kansas-facility-activity-7482851296081854466-G8tN"
+    },
+    {
+      "from": "DEMO-C02",
+      "to": "DEMO-C02:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://s7d2.scene7.com/is/content/Titan Industrial Equipment/C10550147"
+    },
+    {
+      "from": "DEMO-C02",
+      "to": "DEMO-C02:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.heliosturbines-demo.com/en_US/about-us/news-and-press-releases/expanding-our-global-footprint-in-zebrak.html"
+    },
+    {
+      "from": "DEMO-C02:contact:1",
+      "to": "DEMO-C02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/shriee-byrns-11051130"
+    },
+    {
+      "from": "DEMO-C02:contact:2",
+      "to": "DEMO-C02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/gabriele-pagliuca-7b20867"
+    },
+    {
+      "from": "DEMO-C02:contact:3",
+      "to": "DEMO-C02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/william-watkins-7aa954"
+    },
+    {
+      "from": "DEMO-C02:contact:4",
+      "to": "DEMO-C02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/aaronperlov"
+    },
+    {
+      "from": "DEMO-C02:contact:5",
+      "to": "DEMO-C02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/reubenmaestas"
+    },
+    {
+      "from": "DEMO-C02:signal:1",
+      "to": "DEMO-C02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/william-watkins-7aa954"
+    },
+    {
+      "from": "DEMO-C02:signal:2",
+      "to": "DEMO-C02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.woodmac.com/press-releases/gas-turbine-prices-soar-195-as-market-faces-supply-demand-crisis/"
+    },
+    {
+      "from": "DEMO-C02:signal:3",
+      "to": "DEMO-C02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.utilitydive.com/news/5-year-waits-and-rising-costs-how-demand-is-redefining-the-gas-turbine-mar/813385/"
+    },
+    {
+      "from": "DEMO-C02:signal:4",
+      "to": "DEMO-C02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://capwolf.com/ai-boom-hits-gas-turbine-shortage-wall/"
+    },
+    {
+      "from": "DEMO-C02:signal:5",
+      "to": "DEMO-C02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://supplychain360.io/operations/titan industrial equipment-backlog-capacity-strategy/"
+    },
+    {
+      "from": "DEMO-C02:signal:6",
+      "to": "DEMO-C02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://community.cadence.com/cadence_blogs_8/b/corporate-news/posts/cadence-nvidia-and-solar-turbines-collaborate-on-ai-physics"
+    },
+    {
+      "from": "DEMO-P02",
+      "to": "DEMO-P02:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://horizon aerospace & defense.mediaroom.com/2026-03-13-RTXs-Horizon Aerospace & Defense-completes-115-million-expansion-of-Alabama-missile-integration-facility"
+    },
+    {
+      "from": "DEMO-P02",
+      "to": "DEMO-P02:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.horizonaero-demo.com/horizon aerospace & defense/news/2024/08/05/inside-the-space-factory"
+    },
+    {
+      "from": "DEMO-P02",
+      "to": "DEMO-P02:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://horizon aerospace & defense.mediaroom.com/2026-06-08-RTX-invests-100-million-to-accelerate-radar-testing-and-interceptor-production-in-Rhode-Island"
+    },
+    {
+      "from": "DEMO-P02",
+      "to": "DEMO-P02:site:4",
+      "type": "OPERATES_AT",
+      "source_url": "https://horizon aerospace & defense.mediaroom.com/2023-10-26-RTX,-Rafael-to-build-missile-production-facility-in-Camden,-Arkansas"
+    },
+    {
+      "from": "DEMO-P02:contact:1",
+      "to": "DEMO-P02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/rmccombs"
+    },
+    {
+      "from": "DEMO-P02:contact:2",
+      "to": "DEMO-P02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/brian-gross-53134a32"
+    },
+    {
+      "from": "DEMO-P02:contact:3",
+      "to": "DEMO-P02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/brittany-wheeler-d-eng-202b0846"
+    },
+    {
+      "from": "DEMO-P02:contact:4",
+      "to": "DEMO-P02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/ed-osterhoudt-bb629a23"
+    },
+    {
+      "from": "DEMO-P02:contact:5",
+      "to": "DEMO-P02",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/eric-douat-8aa9b09"
+    },
+    {
+      "from": "DEMO-P02:signal:1",
+      "to": "DEMO-P02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.tipranks.com/news/company-announcements/rtx-earnings-call-record-backlog-guidance-raised"
+    },
+    {
+      "from": "DEMO-P02:signal:2",
+      "to": "DEMO-P02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.horizonaero-demo.com/news/news-center/2026/06/08/rtx-invests-100-million-to-accelerate-radar-testing-and-interceptor-production-i"
+    },
+    {
+      "from": "DEMO-P02:signal:3",
+      "to": "DEMO-P02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.horizonaero-demo.com/news/news-center/2026/04/21/rtx-reports-q1-2026-results-"
+    },
+    {
+      "from": "DEMO-P02:signal:4",
+      "to": "DEMO-P02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.ir-ia.com/news/us-army-awards-904-million-contract-to-horizon aerospace & defense-for-next-generation-missile-defense-radar/"
+    },
+    {
+      "from": "DEMO-P02:signal:5",
+      "to": "DEMO-P02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://gutenberg-dev.breakingdefense.com/2026/04/the-pentagon-wants-a-188-percent-bump-for-missile-procurement-can-industry-deliver/"
+    },
+    {
+      "from": "DEMO-P02:signal:6",
+      "to": "DEMO-P02",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://breakingdefense.com/2026/02/rtx-to-ramp-up-production-of-five-weapons-in-new-deal-with-pentagon/"
+    },
+    {
+      "from": "DEMO-P14",
+      "to": "DEMO-P14:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.orbitspace-demo.com/what-we-do/advanced-weapons/missile-products/accelerating-the-arsenal-of-critical-munitions"
+    },
+    {
+      "from": "DEMO-P14",
+      "to": "DEMO-P14:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.orbitspace-demo.com/careers/northrop-grumman-in-elkton-maryland"
+    },
+    {
+      "from": "DEMO-P14",
+      "to": "DEMO-P14:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://news.orbitspace-demo.com/global-power-made-in-america-northrop-grumman-makes-it-in-utah"
+    },
+    {
+      "from": "DEMO-P14:contact:1",
+      "to": "DEMO-P14",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/posts/leslie-strong-4745335_newjob-careergrowth-activity-7483714029325025281-Chb9"
+    },
+    {
+      "from": "DEMO-P14:contact:2",
+      "to": "DEMO-P14",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P14:contact:3",
+      "to": "DEMO-P14",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/christy-szeliga-689a4722"
+    },
+    {
+      "from": "DEMO-P14:contact:4",
+      "to": "DEMO-P14",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/keely-ragin-mba-7153715a"
+    },
+    {
+      "from": "DEMO-P14:contact:5",
+      "to": "DEMO-P14",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/shanil-modi-799a04a9"
+    },
+    {
+      "from": "DEMO-P14:signal:1",
+      "to": "DEMO-P14",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/07/60575003/northrop-reports-q2-double-beat-record-backlog-stock-falls-anyway"
+    },
+    {
+      "from": "DEMO-P14:signal:2",
+      "to": "DEMO-P14",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.stocktitan.net/sec-filings/NOC/8-k-northrop-grumman-corp-de-reports-material-event-b216cb6d4b0a.html"
+    },
+    {
+      "from": "DEMO-P14:signal:3",
+      "to": "DEMO-P14",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.shephardmedia.com/news/defence-notes/us-seeks-to-increase-missile-defence-budget-by-32-in-fy2027-approaching-53-billion/"
+    },
+    {
+      "from": "DEMO-P14:signal:4",
+      "to": "DEMO-P14",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.airandspaceforces.com/air-force-b-21-production-deal-2027-service/"
+    },
+    {
+      "from": "DEMO-P14:signal:5",
+      "to": "DEMO-P14",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.govconwire.com/articles/northrop-greg-simer-chantal-sice-sweger-hired"
+    },
+    {
+      "from": "DEMO-P14:signal:6",
+      "to": "DEMO-P14",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.defenseandmunitions.com/news/northrop-grumman-us-air-force-accelerate-sentinel-program-momentum/"
+    },
+    {
+      "from": "DEMO-P16",
+      "to": "DEMO-P16:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.vectortactical-demo.com/newsroom/editorial/2024/05/aerojet-rocketdynes-camden-site-leverages-modernization-investments"
+    },
+    {
+      "from": "DEMO-P16",
+      "to": "DEMO-P16:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.vectortactical-demo.com/newsroom/editorial/2024/05/orange-county-expansion-helps-aerojet-rocketdyne-boost-solid-rocket"
+    },
+    {
+      "from": "DEMO-P16",
+      "to": "DEMO-P16:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.defensenews.com/land/2025/08/05/vector tactical communications-opens-rocket-motor-plant-already-producing-parts/"
+    },
+    {
+      "from": "DEMO-P16:contact:1",
+      "to": "DEMO-P16",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P16:contact:2",
+      "to": "DEMO-P16",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/franklin-delange-6652895"
+    },
+    {
+      "from": "DEMO-P16:contact:3",
+      "to": "DEMO-P16",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/jwilliams35055"
+    },
+    {
+      "from": "DEMO-P16:contact:4",
+      "to": "DEMO-P16",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/thomas-mcquillan-1429a441"
+    },
+    {
+      "from": "DEMO-P16:contact:5",
+      "to": "DEMO-P16",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/alex-mathers-539b2bab"
+    },
+    {
+      "from": "DEMO-P16:signal:1",
+      "to": "DEMO-P16",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/mark-tucker-384ab694"
+    },
+    {
+      "from": "DEMO-P16:signal:2",
+      "to": "DEMO-P16",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.defensenews.com/pentagon/2026/01/13/pentagon-to-invest-1b-in-vector tactical communications-spinoff-rocket-motor-firm/"
+    },
+    {
+      "from": "DEMO-P16:signal:3",
+      "to": "DEMO-P16",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.vectortactical-demo.com/newsroom/press-release/2026/01/vector tactical communications-accelerates-arsenal-freedom-creation-new-missile-solutions"
+    },
+    {
+      "from": "DEMO-P16:signal:4",
+      "to": "DEMO-P16",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://spacenews.com/pentagon-commits-1-billion-to-vector tactical communications-missile-unit-as-anchor-investor/"
+    },
+    {
+      "from": "DEMO-P16:signal:5",
+      "to": "DEMO-P16",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://breakingdefense.com/2026/01/with-the-boom-for-solid-rocket-motors-for-missiles-a-perilous-crunch-in-the-supply-chain/"
+    },
+    {
+      "from": "DEMO-P16:signal:6",
+      "to": "DEMO-P16",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://defenceleaders.com/news/vector tactical communications-bags-new-javelin-missile-motor-deal/"
+    },
+    {
+      "from": "DEMO-P16",
+      "to": "DEMO-P22",
+      "type": "SAME_ENTITY",
+      "confidence": "High",
+      "rationale": "Stellar Propulsion Dynamics is explicitly described as now being Vector Tactical Communications's solid rocket motor business/Missile Solutions division post-acquisition, with identical facilities (Huntsville), identical contracts (Javelin $292M motor deal cited under both), and identical Pentagon $1B investment reported under both profiles.",
+      "source_url": "https://www.businesswire.com/news/home/20250915047526/en/Vector Tactical Communications-Receives-Multi-Year-Javelin-Solid-Rocket-Motor-Contract"
+    },
+    {
+      "from": "DEMO-P06",
+      "to": "DEMO-P06:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://mtu-online-shop.com/media/pdf/ca/e3/2f/16120689_MTU_America_AikenPlant7ooblExMvInO0.pdf"
+    },
+    {
+      "from": "DEMO-P06",
+      "to": "DEMO-P06:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.sovereignpower-demo.com/na/en/pressreleases/2026/ROLLS-ROYCE-CUTS-RIBBON-ON-NEW-24M-EXPANSION-IN-MANKATO-MINNESOTA.html"
+    },
+    {
+      "from": "DEMO-P06",
+      "to": "DEMO-P06:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.sovereignpower-demo.com/na/en/pressreleases/2023/sovereign power-officially-opens--30m-mtu-combustion-engine-assembly.html"
+    },
+    {
+      "from": "DEMO-P06:contact:1",
+      "to": "DEMO-P06",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P06:contact:2",
+      "to": "DEMO-P06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/frederico-aldama-26807421"
+    },
+    {
+      "from": "DEMO-P06:contact:3",
+      "to": "DEMO-P06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/ben-adcock-7b50b9a"
+    },
+    {
+      "from": "DEMO-P06:contact:4",
+      "to": "DEMO-P06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/dawn-powell-a08a7166"
+    },
+    {
+      "from": "DEMO-P06:contact:5",
+      "to": "DEMO-P06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/james-walsh-433a3b9a"
+    },
+    {
+      "from": "DEMO-P06:signal:1",
+      "to": "DEMO-P06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.assemblymag.com/articles/100209-sovereign power-expands-us-generator-assembly-capacity"
+    },
+    {
+      "from": "DEMO-P06:signal:2",
+      "to": "DEMO-P06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.energytech.com/distributed-energy/news/55389868/sovereign power-expands-us-manufacturing-with-24-million-mankato-facility"
+    },
+    {
+      "from": "DEMO-P06:signal:3",
+      "to": "DEMO-P06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/marcell-schauf-47a55611b"
+    },
+    {
+      "from": "DEMO-P06:signal:4",
+      "to": "DEMO-P06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.linkedin.com/posts/mtusolutions_rolls-royce-power-systems-is-investing-a-activity-7437089778015039488-yuxc"
+    },
+    {
+      "from": "DEMO-P06:signal:5",
+      "to": "DEMO-P06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://berlinherald.com/sovereign power-power-systems-expands-friedrichshafen-hiring-under-new-ig-metall-tariff/"
+    },
+    {
+      "from": "DEMO-P06:signal:6",
+      "to": "DEMO-P06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/erik-l-manning"
+    },
+    {
+      "from": "DEMO-P06",
+      "to": "DEMO-P19",
+      "type": "DISTINCT_DIVISION",
+      "confidence": "High",
+      "rationale": "DEMO-P06 is explicitly Sovereign Power Power Systems/MTU Friedrichshafen (diesel/gas engines, Marcell Schauf as CPO of Power Systems) while DEMO-P19 is Sovereign Power's civil/defense Aerospace and submarine reactor business (UltraFan, Raynesway submarine reactors, C.R. Karyekar VP Procurement for Global Aerospace & Defense) - these are distinct divisions under the same parent Sovereign Power Holdings with separate leadership, products, and buying centers.",
+      "source_url": "https://defence-industry.eu/sovereign power-starts-raynesway-site-expansion-to-double-submarine-reactor-manufacturing-capacity-for-uk-and-australian-programmes/"
+    },
+    {
+      "from": "DEMO-P24",
+      "to": "DEMO-P24:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://ir.advancedalloy-demo.com/news-events/news-details/2025/Advanced Alloy Technologies-Celebrates-Commissioning-of-Additive-Manufacturing-Products/default.aspx"
+    },
+    {
+      "from": "DEMO-P24",
+      "to": "DEMO-P24:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.prnewswire.com/news-releases/advanced alloy technologies-expands-portfolio-to-produce-titanium-alloy-sheet-for-aerospace-302479570.html"
+    },
+    {
+      "from": "DEMO-P24",
+      "to": "DEMO-P24:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.advancedalloy-demo.com/newsroom/Documents/Advanced Alloy Technologies%20Richland%20Fact%20Sheet%202024.pdf"
+    },
+    {
+      "from": "DEMO-P24",
+      "to": "DEMO-P24:site:4",
+      "type": "OPERATES_AT",
+      "source_url": "https://airpronews.com/2026/06/28/advanced alloy technologies-inc-opens-advanced-machining-facility-in-chihuahua/"
+    },
+    {
+      "from": "DEMO-P24:contact:1",
+      "to": "DEMO-P24",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/posts/heather-simmons-phd-05588a17_proventoperform-ijoinedati-activity-7481512446600302592-5EjX"
+    },
+    {
+      "from": "DEMO-P24:contact:2",
+      "to": "DEMO-P24",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P24:contact:3",
+      "to": "DEMO-P24",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P24:contact:4",
+      "to": "DEMO-P24",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P24:contact:5",
+      "to": "DEMO-P24",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/yoshikuni-yoshikawa-cpsm-mba-34845b1"
+    },
+    {
+      "from": "DEMO-P24:signal:1",
+      "to": "DEMO-P24",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://mexicobusiness.news/aerospace/news/advanced alloy technologies-materials-secures-us80-million-facility-deal-mexico"
+    },
+    {
+      "from": "DEMO-P24:signal:2",
+      "to": "DEMO-P24",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.prnewswire.com/news-releases/advanced alloy technologies-expands-advanced-machining-and-inspection-capability-302808284.html"
+    },
+    {
+      "from": "DEMO-P24:signal:3",
+      "to": "DEMO-P24",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.prnewswire.com/news-releases/advanced alloy technologies-announces-first-quarter-2026-results-302758187.html"
+    },
+    {
+      "from": "DEMO-P24:signal:4",
+      "to": "DEMO-P24",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://ng.investing.com/news/company-news/advanced alloy technologies-q4-2025-presentation-aerospace--defense-powers-margin-growth-93CH-2320813"
+    },
+    {
+      "from": "DEMO-P24:signal:5",
+      "to": "DEMO-P24",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://business-news-today.com/advanced alloy technologies-extends-bwxt-naval-nuclear-agreement-as-advanced alloy technologies-stock-hits-defence-materials-spotlight/"
+    },
+    {
+      "from": "DEMO-P24:signal:6",
+      "to": "DEMO-P24",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://hoodline.com/2026/05/monroe-rushes-in-as-advanced alloy technologies-dangles-300-million-expansion-and-130-jobs/"
+    },
+    {
+      "from": "DEMO-C04",
+      "to": "DEMO-C04:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.meridianpropulsion-demo.com/company/history---heritage"
+    },
+    {
+      "from": "DEMO-C04:contact:1",
+      "to": "DEMO-C04",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/andrew-poulios-372646b"
+    },
+    {
+      "from": "DEMO-C04:contact:2",
+      "to": "DEMO-C04",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/teresa-van-niekerk-4061b5323"
+    },
+    {
+      "from": "DEMO-C04:contact:3",
+      "to": "DEMO-C04",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/brian-susemichel-7178363"
+    },
+    {
+      "from": "DEMO-C04:contact:4",
+      "to": "DEMO-C04",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/kristi-jackson-94a33264"
+    },
+    {
+      "from": "DEMO-C04:contact:5",
+      "to": "DEMO-C04",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/matthewajcarter"
+    },
+    {
+      "from": "DEMO-C04:signal:1",
+      "to": "DEMO-C04",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.meridianpropulsion-demo.com/newsroom/article/2026/06/16/allison-transmission-to-supply-4040-mx--transmissions-for-bae-systems-h%C3%A4gglunds-cv90-mkiv-vehicles"
+    },
+    {
+      "from": "DEMO-C04:signal:2",
+      "to": "DEMO-C04",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.meridianpropulsion-demo.com/newsroom/article/2026/06/09/allison-automatic-transmissions-to-enhance-next-generation-tactical-trucks-for-french-land-forces-in-multi-million-dollar-program"
+    },
+    {
+      "from": "DEMO-C04:signal:3",
+      "to": "DEMO-C04",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.morningstar.com/news/pr-newswire/20260504de50355/allison-announces-first-quarter-2026-results"
+    },
+    {
+      "from": "DEMO-C04:signal:4",
+      "to": "DEMO-C04",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/teresa-van-niekerk-4061b5323"
+    },
+    {
+      "from": "DEMO-C04:signal:5",
+      "to": "DEMO-C04",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.meridianpropulsion-demo.com/en-gb/newsroom/article/2026/01/02/allison-transmission-completes-acquisition-of-dana-incorporated's-off-highway-drive---motion-systems-business--creating-a-premier--global-industrial-leader"
+    },
+    {
+      "from": "DEMO-C04:signal:6",
+      "to": "DEMO-C04",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.ibj.com/articles/allison-transmission-workers-in-lafayette-vote-to-authorize-strike"
+    },
+    {
+      "from": "DEMO-C04",
+      "to": "DEMO-P09",
+      "type": "SAME_ENTITY",
+      "confidence": "High",
+      "rationale": "Both accounts cite the same corporate press releases (Abrams contract, CV90 MkIV, French Land Forces, Q4/FY2025 results) and same parent company Meridian Propulsion Solutions; the 'E-Drive' account's evidence is overwhelmingly about the same overall company and defense programs rather than a distinct electrification business unit, indicating duplicate tracking of one entity.",
+      "source_url": "https://www.prnewswire.com/news-releases/allison-transmission-announces-fourth-quarter-and-full-year-2025-results-302694913.html"
+    },
+    {
+      "from": "DEMO-P08",
+      "to": "DEMO-P08:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.velocitymobility-demo.com/press-releases-news/2026/3/velocity mobility systems-supply-153-trains-comboios-de-portugal-and-establish-manufacturing-facility-portugal"
+    },
+    {
+      "from": "DEMO-P08:contact:1",
+      "to": "DEMO-P08",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/genoveva-bonora-57288447"
+    },
+    {
+      "from": "DEMO-P08:contact:2",
+      "to": "DEMO-P08",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/shelia-kingsley-26174412"
+    },
+    {
+      "from": "DEMO-P08:contact:3",
+      "to": "DEMO-P08",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/susielevesque"
+    },
+    {
+      "from": "DEMO-P08:contact:4",
+      "to": "DEMO-P08",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/andrea-jankovic-a241186"
+    },
+    {
+      "from": "DEMO-P08:contact:5",
+      "to": "DEMO-P08",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/etienne-dumont-a7b00622"
+    },
+    {
+      "from": "DEMO-P08:signal:1",
+      "to": "DEMO-P08",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://rollingstockworld.com/production/velocity mobility systems-starts-building-plant-for-rolling-stock-production-in-portugal/"
+    },
+    {
+      "from": "DEMO-P08:signal:2",
+      "to": "DEMO-P08",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.railwaypro.com/wp/velocity mobility systems-wins-eur-107-million-contract-for-wag-12b/"
+    },
+    {
+      "from": "DEMO-P08:signal:3",
+      "to": "DEMO-P08",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.velocitymobility-demo.com/press-releases-news/2026/4/velocity mobility systems-americas-appoints-new-leaders-procurement-and-services-north-america"
+    },
+    {
+      "from": "DEMO-P08:signal:4",
+      "to": "DEMO-P08",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.velocitymobility-demo.com/press-releases-news/2026/4/velocity mobility systems-delivers-romanias-first-next-generation-electric-locomotive-arf-advancing-sustainable-rail-mobility"
+    },
+    {
+      "from": "DEMO-P08:signal:5",
+      "to": "DEMO-P08",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.velocitymobility-demo.com/press-releases-news/2025/12/velocity mobility systems-supply-47-trains-and-associated-maintenance-new-rail-corridors-mexico"
+    },
+    {
+      "from": "DEMO-P08:signal:6",
+      "to": "DEMO-P08",
+      "type": "SIGNAL_FOR",
+      "source_url": "http://business-news-today.com/velocity mobility systems-wins-e800m-ameca-locomotive-order-as-execution-pressure-stays-in-focus/"
+    },
+    {
+      "from": "DEMO-P20",
+      "to": "DEMO-P20:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://news.valorflight-demo.com/en-US/227081-made-in-amarillo-texas-the-team-behind-the-valor flight technologies-boeing-v-22-osprey/"
+    },
+    {
+      "from": "DEMO-P20:contact:1",
+      "to": "DEMO-P20",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P20:contact:2",
+      "to": "DEMO-P20",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/tracey-crespo-503116231"
+    },
+    {
+      "from": "DEMO-P20:contact:3",
+      "to": "DEMO-P20",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/andrew-flintoff-862613239"
+    },
+    {
+      "from": "DEMO-P20:signal:1",
+      "to": "DEMO-P20",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://dallasinnovates.com/valor flight technologies-textron-all-set-to-build-a-632m-army-assault-aircraft-parts-factory-in-north-fort-worth/"
+    },
+    {
+      "from": "DEMO-P20:signal:2",
+      "to": "DEMO-P20",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.defensedaily.com/hascs-fy-27-ndaa-adds-more-black-hawks-chinooks-for-army-no-plus-up-for-apaches/congress/"
+    },
+    {
+      "from": "DEMO-P20:signal:3",
+      "to": "DEMO-P20",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://fortworthreport.org/2026/05/25/valor flight technologies-accelerates-production-of-armys-cheyenne-ii-vertical-lift-aircraft/"
+    },
+    {
+      "from": "DEMO-P20:signal:4",
+      "to": "DEMO-P20",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://aviationweek.com/aerospace/aircraft-propulsion/valor flight technologies-sees-rising-demand-prepares-production-ramp"
+    },
+    {
+      "from": "DEMO-P20:signal:5",
+      "to": "DEMO-P20",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://news.valorflight-demo.com/en-US/245458-valor flight technologies-announces-new-manufacturing-facility-for-the-u-s-army-s-future-long-range-assault-aircraft/"
+    },
+    {
+      "from": "DEMO-P20:signal:6",
+      "to": "DEMO-P20",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.rotorhub.com/valor flight technologies-reveals-record-year-for-505-at-fidae/"
+    },
+    {
+      "from": "DEMO-C06",
+      "to": "DEMO-C06:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.titanindustrial-demo.com/en/news/corporate-press-releases/h/lafayette-large-engine-expansion.html"
+    },
+    {
+      "from": "DEMO-C06",
+      "to": "DEMO-C06:site:2",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.titanindustrial-demo.com/en/news/corporate-press-releases/h/manufacturing-talent-illinois.html"
+    },
+    {
+      "from": "DEMO-C06",
+      "to": "DEMO-C06:site:3",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.perkins.com/en_GB/company/locations/peterborough.html"
+    },
+    {
+      "from": "DEMO-C06:contact:1",
+      "to": "DEMO-C06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/kevin-nading-0a955a51"
+    },
+    {
+      "from": "DEMO-C06:contact:2",
+      "to": "DEMO-C06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/cole-norman-3a4ba457"
+    },
+    {
+      "from": "DEMO-C06:contact:3",
+      "to": "DEMO-C06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/tomas-hanson-89513336"
+    },
+    {
+      "from": "DEMO-C06:contact:4",
+      "to": "DEMO-C06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/brian-l-henderson"
+    },
+    {
+      "from": "DEMO-C06:contact:5",
+      "to": "DEMO-C06",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://linkedin.com/in/jesse-miller-685763b9"
+    },
+    {
+      "from": "DEMO-C06:signal:1",
+      "to": "DEMO-C06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.manufacturingdive.com/news/titan industrial equipment-triple-power-generation-capacity-raises-2030-targets-q1-2026-earnings/819078/"
+    },
+    {
+      "from": "DEMO-C06:signal:2",
+      "to": "DEMO-C06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://construction-equipment-today.com/articles/titan industrial equipment-63-billion-order-backlog-what-this-means-for-delivery-times-and-pric"
+    },
+    {
+      "from": "DEMO-C06:signal:3",
+      "to": "DEMO-C06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://scw-mag.com/news/inside-caterpillars-strategic-procurement-planning-division-and-how-pam-heminger-is-leading-supply-chain-transformation/"
+    },
+    {
+      "from": "DEMO-C06:signal:4",
+      "to": "DEMO-C06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.equipmentinsiderhq.com/posts/2026-01-30-construction-equipment-market-outlook-2026/"
+    },
+    {
+      "from": "DEMO-C06:signal:5",
+      "to": "DEMO-C06",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.insurerbrain.com/wiki/Joe_Creed"
+    },
+    {
+      "from": "DEMO-C06",
+      "to": "DEMO-P03",
+      "type": "DISTINCT_DIVISION",
+      "confidence": "High",
+      "rationale": "DEMO-P03 is explicitly scoped to Titan Industrial Equipment's Lafayette, Indiana large-engine power generation plant only, evidenced by the $725M facility-specific capital expansion and Lafayette-based Supplier Development/Quality Engineer roles, whereas DEMO-C06 tracks the entire corporate entity across Mining, Construction, and Engines segments with enterprise-level signals like CEO succession and overall backlog; the accounts share overlapping macro news (data-center demand, backlog) but are deliberately tracking different organizational levels (single plant vs. whole company).",
+      "source_url": "https://www.prnewswire.com/news-releases/titan industrial equipment-invests-in-us-manufacturing-and-future-workforce-skills-training-302590291.html"
+    },
+    {
+      "from": "DEMO-P17",
+      "to": "DEMO-P17:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.horizonaero-demo.com/news/news-center/2026/06/02/rtxs-collins-aerospace-opens-expanded-manufacturing-facility-in-tajecina-poland"
+    },
+    {
+      "from": "DEMO-P17:contact:1",
+      "to": "DEMO-P17",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P17:contact:2",
+      "to": "DEMO-P17",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/daniel-pemble-42981324"
+    },
+    {
+      "from": "DEMO-P17:contact:3",
+      "to": "DEMO-P17",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/lisa-rae-young"
+    },
+    {
+      "from": "DEMO-P17:contact:4",
+      "to": "DEMO-P17",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/paul-smits-13472946"
+    },
+    {
+      "from": "DEMO-P17:contact:5",
+      "to": "DEMO-P17",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/bruce-kaiser-365138161"
+    },
+    {
+      "from": "DEMO-P17:signal:1",
+      "to": "DEMO-P17",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.horizonaero-demo.com/news/news-center/2026/06/02/rtxs-collins-aerospace-opens-expanded-manufacturing-facility-in-tajecina-poland"
+    },
+    {
+      "from": "DEMO-P17:signal:2",
+      "to": "DEMO-P17",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://avitrader.com/2026/06/03/collins-officially-opens-expanded-poland-landing-gear-hub/"
+    },
+    {
+      "from": "DEMO-P17:signal:3",
+      "to": "DEMO-P17",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.aerotime.aero/articles/collins-aerospace-five-systems-mv75-flraa-valor flight technologies"
+    },
+    {
+      "from": "DEMO-P17:signal:4",
+      "to": "DEMO-P17",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://airpronews.com/2026/01/27/rtx-reports-268-billion-backlog-and-strong-2025-financial-results/"
+    },
+    {
+      "from": "DEMO-P17:signal:5",
+      "to": "DEMO-P17",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/kristopher-pinnow-324486b"
+    },
+    {
+      "from": "DEMO-P17:signal:6",
+      "to": "DEMO-P17",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.linkedin.com/posts/alejandra-de-luna-mba-b05133140_im-excited-to-share-that-i-was-recently-activity-7474903487907266560-c85V"
+    },
+    {
+      "from": "DEMO-C07",
+      "to": "DEMO-C07:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.pinnacleengine-demo.com/company/facilities/jamestown-engine-plant"
+    },
+    {
+      "from": "DEMO-C07:contact:1",
+      "to": "DEMO-C07",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/ram-sunkari-2213b963"
+    },
+    {
+      "from": "DEMO-C07:contact:2",
+      "to": "DEMO-C07",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/elizabeth-kuehner-57524289"
+    },
+    {
+      "from": "DEMO-C07:contact:3",
+      "to": "DEMO-C07",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/fernando-herndon-72127aa9"
+    },
+    {
+      "from": "DEMO-C07:contact:4",
+      "to": "DEMO-C07",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/kurt-schoenegge-1ba5b8154"
+    },
+    {
+      "from": "DEMO-C07:contact:5",
+      "to": "DEMO-C07",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/kevin-andrews-795744218"
+    },
+    {
+      "from": "DEMO-C07:signal:1",
+      "to": "DEMO-C07",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.morningstar.com/news/business-wire/20260616069208/pinnacle engine-natural-gas-generators-to-power-large-scale-data-centers-in-west-texas"
+    },
+    {
+      "from": "DEMO-C07:signal:2",
+      "to": "DEMO-C07",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.pinnacleengine-demo.com/en-na/news/releases/2026/06/02/centumtm-s17-series-earns-latest-product-award-pinnacle engine-power-generation"
+    },
+    {
+      "from": "DEMO-C07:signal:3",
+      "to": "DEMO-C07",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.pinnacleengine-demo.com/en-na/news/releases/2026/05/21/pinnacle engine-raises-2030-financial-targets-announces-large-engine-capacity-and"
+    },
+    {
+      "from": "DEMO-C07:signal:4",
+      "to": "DEMO-C07",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.reuters.com/business/energy/pinnacle engine-raises-revenue-outlook-robust-power-generation-demand-2026-05-05/"
+    },
+    {
+      "from": "DEMO-C07:signal:5",
+      "to": "DEMO-C07",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/jennifer-rumsey"
+    },
+    {
+      "from": "DEMO-C07:signal:6",
+      "to": "DEMO-C07",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/rachel-lanning-b7b2b59"
+    },
+    {
+      "from": "DEMO-C07",
+      "to": "DEMO-P04",
+      "type": "DISTINCT_DIVISION",
+      "confidence": "High",
+      "rationale": "DEMO-P04 explicitly tracks the Meritor-derived Pinnacle Engine Drivetrain and Braking Systems business unit (axles, transmissions, braking) with its own dedicated buying-center leaders (Burrola, Dang) and product lines (RT-160 HE axle), which is organizationally and product-wise distinct from DEMO-C07's large-engine/power generation business for data centers, even though both roll up under the same parent Pinnacle Engine Technologies corporate domain.",
+      "source_url": "https://linkedin.com/in/cristina-burrola-48464611"
+    },
+    {
+      "from": "DEMO-P10",
+      "to": "DEMO-P10:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.zenithtransit-demo.com/our-company/locations/"
+    },
+    {
+      "from": "DEMO-P10:contact:1",
+      "to": "DEMO-P10",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/jennifer-hathcock-9142512a"
+    },
+    {
+      "from": "DEMO-P10:contact:2",
+      "to": "DEMO-P10",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/paolo-carosio-pmp\u00ae-711350ab"
+    },
+    {
+      "from": "DEMO-P10:contact:3",
+      "to": "DEMO-P10",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/chris-singer-214b4851"
+    },
+    {
+      "from": "DEMO-P10:contact:4",
+      "to": "DEMO-P10",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/fabio-carrino-pmp-37329069"
+    },
+    {
+      "from": "DEMO-P10:contact:5",
+      "to": "DEMO-P10",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/grecogiuseppe89"
+    },
+    {
+      "from": "DEMO-P10:signal:1",
+      "to": "DEMO-P10",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.bbc.co.uk/news/articles/c330vd1zj27o"
+    },
+    {
+      "from": "DEMO-P10:signal:2",
+      "to": "DEMO-P10",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://canadiansme.ca/zenith transit-digital-signalling-to-enable-up-to-40-capacity-increase-on-toronto-subway-line-2/"
+    },
+    {
+      "from": "DEMO-P10:signal:3",
+      "to": "DEMO-P10",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://railwaynews.net/zenith transit-rail-signs-contract-for-20-high-speed-trains-in-poland.html"
+    },
+    {
+      "from": "DEMO-P10:signal:4",
+      "to": "DEMO-P10",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.railwaygazette.com/urban/2025/09/11/zenith transit-rail-opens-maryland-rolling-stock-factory-to-supply-north-american-market/"
+    },
+    {
+      "from": "DEMO-P10:signal:5",
+      "to": "DEMO-P10",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/vinaythombre"
+    },
+    {
+      "from": "DEMO-P10:signal:6",
+      "to": "DEMO-P10",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://linkedin.com/in/loredana-dumitrescu-pmp-a80bb830"
+    },
+    {
+      "from": "DEMO-P22",
+      "to": "DEMO-P22:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.vectortactical-demo.com/newsroom/press-release/2025/08/vector tactical communications-expanding-huntsville-solid-rocket-motor-facility"
+    },
+    {
+      "from": "DEMO-P22:contact:1",
+      "to": "DEMO-P22",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P22:contact:2",
+      "to": "DEMO-P22",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/ben-parker-a3a816195"
+    },
+    {
+      "from": "DEMO-P22:contact:3",
+      "to": "DEMO-P22",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/cliff-andrews-180788252"
+    },
+    {
+      "from": "DEMO-P22:contact:4",
+      "to": "DEMO-P22",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/dave-sanders-216027244"
+    },
+    {
+      "from": "DEMO-P22:contact:5",
+      "to": "DEMO-P22",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/jorge-lopes-655b552a1"
+    },
+    {
+      "from": "DEMO-P22:signal:1",
+      "to": "DEMO-P22",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.linkedin.com/posts/kimberly-ricker-waters_supplychain-leadership-promotion-activity-7455707575574085632-cDHE"
+    },
+    {
+      "from": "DEMO-P22:signal:2",
+      "to": "DEMO-P22",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://breakingdefense.com/2026/07/sda-awards-vector tactical communications-sierra-1-75b-for-missile-defense-satellites"
+    },
+    {
+      "from": "DEMO-P22:signal:3",
+      "to": "DEMO-P22",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://interestingengineering.com/military/vector tactical communications-arkansas-pac3-missile-propulsion-facilities"
+    },
+    {
+      "from": "DEMO-P22:signal:4",
+      "to": "DEMO-P22",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.linkedin.com/posts/eric-kanner-932723b_im-excited-to-share-that-ive-joined-l3harristechnologies-activity-7458246203026141184-GQSc"
+    },
+    {
+      "from": "DEMO-P22:signal:5",
+      "to": "DEMO-P22",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.shephardmedia.com/news/defence-notes/us-seeks-to-increase-missile-defence-budget-by-32-in-fy2027-approaching-53-billion/"
+    },
+    {
+      "from": "DEMO-P22:signal:6",
+      "to": "DEMO-P22",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.manufacturingdive.com/news/vector tactical communications-technologies-orange-virginia-expansion-advanced-propulsion-facilit/817591/"
+    },
+    {
+      "from": "DEMO-P22",
+      "to": "DEMO-P16",
+      "type": "SAME_ENTITY",
+      "confidence": "High",
+      "rationale": "Stellar Propulsion Dynamics is explicitly described as now being Vector Tactical Communications's solid rocket motor business/Missile Solutions division post-acquisition, with identical facilities (Huntsville), identical contracts (Javelin $292M motor deal cited under both), and identical Pentagon $1B investment reported under both profiles.",
+      "source_url": "https://www.businesswire.com/news/home/20250915047526/en/Vector Tactical Communications-Receives-Multi-Year-Javelin-Solid-Rocket-Motor-Contract"
+    },
+    {
+      "from": "DEMO-C01",
+      "to": "DEMO-C01:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://www.oriontransit-demo.com/us/en/company/newsroom/press-releases/orion transit-marks-new-era-in-american-rail-manufacturing-with-opening-of-north-carolina-facility.html"
+    },
+    {
+      "from": "DEMO-C01:contact:1",
+      "to": "DEMO-C01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/joel-beck-6860b8a"
+    },
+    {
+      "from": "DEMO-C01:contact:2",
+      "to": "DEMO-C01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/sergii-vasylenko-7b580248"
+    },
+    {
+      "from": "DEMO-C01:contact:3",
+      "to": "DEMO-C01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/antoanela-roibu-5bab9538"
+    },
+    {
+      "from": "DEMO-C01:contact:4",
+      "to": "DEMO-C01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/anton-semichev-53aa09169"
+    },
+    {
+      "from": "DEMO-C01:contact:5",
+      "to": "DEMO-C01",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/ed-shaner-1997a264"
+    },
+    {
+      "from": "DEMO-C01:signal:1",
+      "to": "DEMO-C01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.oriontransit-demo.com/us/en/company/newsroom/press-releases/orion transit-marks-new-era-in-american-rail-manufacturing-with-opening-of-north-carolina-facility.html"
+    },
+    {
+      "from": "DEMO-C01:signal:2",
+      "to": "DEMO-C01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.railwaygazette.com/business/2026/04/09/orion transit-mobility-opens-lexington-passenger-rolling-stock-factory/"
+    },
+    {
+      "from": "DEMO-C01:signal:3",
+      "to": "DEMO-C01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://jobs.orion transit.com/de_DE/externaljobs/JobDetail/497266"
+    },
+    {
+      "from": "DEMO-C01:signal:4",
+      "to": "DEMO-C01",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.linkedin.com/in/sureshchohan"
+    },
+    {
+      "from": "DEMO-P27",
+      "to": "DEMO-P27:site:1",
+      "type": "OPERATES_AT",
+      "source_url": "https://news.vanguardsystems-demo.com/2026-03-06-Stratos Rotorcraft Technologies-Ramps-Up-Production-of-New-Variant-S-92-Helicopter"
+    },
+    {
+      "from": "DEMO-P27:contact:1",
+      "to": "DEMO-P27",
+      "type": "KNOWN_BY_ACME",
+      "source_url": null
+    },
+    {
+      "from": "DEMO-P27:contact:2",
+      "to": "DEMO-P27",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/ray-burke-99aa2b5"
+    },
+    {
+      "from": "DEMO-P27:contact:3",
+      "to": "DEMO-P27",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/andrew-white-0667ba45"
+    },
+    {
+      "from": "DEMO-P27:contact:4",
+      "to": "DEMO-P27",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/brian-teixeira-53a38652"
+    },
+    {
+      "from": "DEMO-P27:contact:5",
+      "to": "DEMO-P27",
+      "type": "RESEARCHED_CONTACT",
+      "source_url": "https://www.linkedin.com/in/caitlin-sanctuary-pattison-mba-28ab7571"
+    },
+    {
+      "from": "DEMO-P27:signal:1",
+      "to": "DEMO-P27",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://ottawacitizen.com/public-service/defence-watch/cyclone-helicopters-canadian-forces"
+    },
+    {
+      "from": "DEMO-P27:signal:2",
+      "to": "DEMO-P27",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.defensedaily.com/hascs-fy-27-ndaa-adds-more-black-hawks-chinooks-for-army-no-plus-up-for-apaches/congress/"
+    },
+    {
+      "from": "DEMO-P27:signal:3",
+      "to": "DEMO-P27",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.govconwire.com/articles/stratos rotorcraft technologies-ch-53k-helicopters-navy-contract-award"
+    },
+    {
+      "from": "DEMO-P27:signal:4",
+      "to": "DEMO-P27",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://news.vanguardsystems-demo.com/2025-08-20-Lockheed-Martin-Stratos Rotorcraft Technologies-Awarded-New-Army-Contract-for-Black-Hawk-Modernization-Efforts"
+    },
+    {
+      "from": "DEMO-P27:signal:5",
+      "to": "DEMO-P27",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.ainonline.com/aviation-news/defense/2026-07-21/stratos rotorcraft technologies-eyes-european-production-line-ngrc"
+    },
+    {
+      "from": "DEMO-P27:signal:6",
+      "to": "DEMO-P27",
+      "type": "SIGNAL_FOR",
+      "source_url": "https://www.defenseone.com/business/2026/03/military-helicopter-deliveries-2025/412355/?oref=d1-category-lander-river"
+    },
+    {
+      "from": "DEMO-P27",
+      "to": "DEMO-C11",
+      "type": "DISTINCT_DIVISION",
+      "confidence": "High",
+      "rationale": "Vanguard Systems - Fire & Missile Control covers missile defense products (THAAD, PAC-3, hypersonics) while Stratos Rotorcraft Technologies is a distinct helicopter-manufacturing business unit (CH-53K, Black Hawk, S-92), with evidence explicitly noting Stratos Rotorcraft Technologies is a Vanguard Systems subsidiary under the RMS segment operating separate platforms, contracts, and facilities.",
+      "source_url": "https://news.vanguardsystems-demo.com/2025-09-26-Lockheed-Martin-Stratos Rotorcraft Technologies-Receives-Five-Year-Contract-to-Build-Up-to-99-CH-53K-R-Heavy-Lift-Helicopters-for-the-U-S-Marine-Corps"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P01",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-C11",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-C05",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-C03",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-C02",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P02",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P14",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P16",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P06",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P24",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-C04",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P08",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P20",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-C06",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P17",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-C07",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P10",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P22",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:new-program-or-production-ramp",
+      "to": "DEMO-P27",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P01",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-C11",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-C03",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-C02",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P02",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P14",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P16",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P24",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P08",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P20",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-C06",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-C07",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P22",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:market-tailwind",
+      "to": "DEMO-P27",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P01",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-C05",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-C03",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-C02",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P14",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P16",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P06",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-C04",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P08",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-C06",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P17",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-C07",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P10",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:buying-center-change",
+      "to": "DEMO-P22",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:competitor-adjacency",
+      "to": "DEMO-P01",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:competitor-adjacency",
+      "to": "DEMO-C05",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:supplier-disruption",
+      "to": "DEMO-C11",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:supplier-disruption",
+      "to": "DEMO-P16",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:supplier-disruption",
+      "to": "DEMO-P10",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:supplier-disruption",
+      "to": "DEMO-C01",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:supplier-disruption",
+      "to": "DEMO-P27",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C11",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C05",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C03",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C02",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P02",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P14",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P16",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P06",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P24",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C04",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P08",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P20",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C06",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P17",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C07",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P10",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-P22",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "trend:capacity-constraint",
+      "to": "DEMO-C01",
+      "type": "IMPACTS"
+    },
+    {
+      "from": "event:https-www-sec-gov-archives-edgar-data-101829-000114036126036662-ef20082011-8k-htm",
+      "to": "DEMO-P02",
+      "type": "IMPACTS",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000114036126036662/ef20082011_8k.htm"
+    },
+    {
+      "from": "event:https-www-sec-gov-archives-edgar-data-101829-000114036126036662-ef20082011-8k-htm",
+      "to": "DEMO-P17",
+      "type": "IMPACTS",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/101829/000114036126036662/ef20082011_8k.htm"
+    },
+    {
+      "from": "event:https-www-defense-gov-news-contracts-contract-article-3901412",
+      "to": "DEMO-P14",
+      "type": "IMPACTS",
+      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3901412/"
+    },
+    {
+      "from": "event:https-www-railwaygazette-com-traction-and-rolling-stock-velocity mobility systems-to-supply-battery-electric-trains-for-transpennine-express",
+      "to": "DEMO-P08",
+      "type": "IMPACTS",
+      "source_url": "https://www.railwaygazette.com/traction-and-rolling-stock/velocity mobility systems-to-supply-battery-electric-trains-for-transpennine-express/"
+    },
+    {
+      "from": "event:https-www-defense-gov-news-contracts-contract-article-3905103",
+      "to": "DEMO-C05",
+      "type": "IMPACTS",
+      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3905103/"
+    },
+    {
+      "from": "event:https-www-marketbeat-com-stocks-nyse-cat-news-titan industrial equipment-powers-ahead-with-turbine-capacity-additions",
+      "to": "DEMO-C02",
+      "type": "IMPACTS",
+      "source_url": "https://www.marketbeat.com/stocks/NYSE/CAT/news/titan industrial equipment-powers-ahead-with-turbine-capacity-additions/"
+    },
+    {
+      "from": "event:https-www-marketbeat-com-stocks-nyse-cat-news-titan industrial equipment-powers-ahead-with-turbine-capacity-additions",
+      "to": "DEMO-C06",
+      "type": "IMPACTS",
+      "source_url": "https://www.marketbeat.com/stocks/NYSE/CAT/news/titan industrial equipment-powers-ahead-with-turbine-capacity-additions/"
+    },
+    {
+      "from": "event:https-www-pinnacle engine-com-news-releases-2026-09-14-pinnacle engine-expands-battery-manufacturing-in-europe",
+      "to": "DEMO-C07",
+      "type": "IMPACTS",
+      "source_url": "https://www.pinnacleengine-demo.com/news/releases/2026/09/14/pinnacle engine-expands-battery-manufacturing-in-europe"
+    },
+    {
+      "from": "event:https-www-defense-gov-news-contracts-contract-article-3905102",
+      "to": "DEMO-C11",
+      "type": "IMPACTS",
+      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3905102/"
+    },
+    {
+      "from": "event:https-www-janes-com-defence-news-news-detail-south-korea-selects-mh-60r-for-moh-ii",
+      "to": "DEMO-P27",
+      "type": "IMPACTS",
+      "source_url": "https://www.janes.com/defence-news/news-detail/south-korea-selects-mh-60r-for-moh-ii"
+    },
+    {
+      "from": "event:https-news-bellflight-com-en-us-2026-09-16-valor flight technologies-marks-start-of-nigeria-ah-1z-production-at-amarillo-center",
+      "to": "DEMO-P20",
+      "type": "IMPACTS",
+      "source_url": "https://news.valorflight-demo.com/en-US/2026-09-16-valor flight technologies-marks-start-of-nigeria-ah-1z-production-at-amarillo-center"
+    },
+    {
+      "from": "event:https-www-aegis dynamics-com-news-sterling-heights-modernization-ribbon-cutting-2026",
+      "to": "DEMO-P01",
+      "type": "IMPACTS",
+      "source_url": "https://www.aegisdynamics-demo.com/news/sterling-heights-modernization-ribbon-cutting-2026/"
+    },
+    {
+      "from": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-propulsion-innovation-center-elkton",
+      "to": "DEMO-P14",
+      "type": "IMPACTS",
+      "source_url": "https://news.orbitspace-demo.com/news/releases/northrop-grumman-opens-propulsion-innovation-center-elkton"
+    },
+    {
+      "from": "event:https-www-vector tactical communications-com-newsroom-press-release-2026-09-vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production",
+      "to": "DEMO-P22",
+      "type": "IMPACTS",
+      "source_url": "https://www.vectortactical-demo.com/newsroom/press-release/2026/09/vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production"
+    },
+    {
+      "from": "event:https-www-vector tactical communications-com-newsroom-press-release-2026-09-vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production",
+      "to": "DEMO-P16",
+      "type": "IMPACTS",
+      "source_url": "https://www.vectortactical-demo.com/newsroom/press-release/2026/09/vector tactical communications-awarded-4-7b-pac-3-mse-propulsion-production"
+    },
+    {
+      "from": "event:https-www-defense-gov-news-contracts-contract-article-3900344",
+      "to": "DEMO-C11",
+      "type": "IMPACTS",
+      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3900344/"
+    },
+    {
+      "from": "event:https-www-defense-gov-news-contracts-contract-article-3900346",
+      "to": "DEMO-C05",
+      "type": "IMPACTS",
+      "source_url": "https://www.defense.gov/News/Contracts/Contract/Article/3900346/"
+    },
+    {
+      "from": "event:https-news-northropgrumman-com-news-releases-northrop-grumman-opens-east-gate-3-facility-layton-utah-b21",
+      "to": "DEMO-P14",
+      "type": "IMPACTS",
+      "source_url": "https://news.orbitspace-demo.com/news/releases/northrop-grumman-opens-east-gate-3-facility-layton-utah-b21"
+    },
+    {
+      "from": "event:https-defence-industry-eu-xm30-prototype-evaluations-aegis dynamics-rheinmetall",
+      "to": "DEMO-P01",
+      "type": "IMPACTS",
+      "source_url": "https://defence-industry.eu/xm30-prototype-evaluations-aegis dynamics-rheinmetall/"
+    }
+  ],
+  "trends": [
+    {
+      "id": "trend:new-program-or-production-ramp",
+      "label": "New program or production ramp",
+      "accounts": [
+        {
+          "id": "DEMO-P01",
+          "name": "Aegis Ground Dynamics"
+        },
+        {
+          "id": "DEMO-C11",
+          "name": "Vanguard Precision Systems"
+        },
+        {
+          "id": "DEMO-C05",
+          "name": "Sentinel Defense Technologies"
+        },
+        {
+          "id": "DEMO-C03",
+          "name": "Apex Motion Dynamics"
+        },
+        {
+          "id": "DEMO-C02",
+          "name": "Helios Turbine Systems"
+        },
+        {
+          "id": "DEMO-P02",
+          "name": "Horizon Aerospace & Defense"
+        },
+        {
+          "id": "DEMO-P14",
+          "name": "Orbit Space Technologies"
+        },
+        {
+          "id": "DEMO-P16",
+          "name": "Stellar Propulsion Dynamics"
+        },
+        {
+          "id": "DEMO-P06",
+          "name": "Sovereign Power Systems"
+        },
+        {
+          "id": "DEMO-P24",
+          "name": "Advanced Alloy Technologies"
+        },
+        {
+          "id": "DEMO-C04",
+          "name": "Meridian Propulsion Solutions"
+        },
+        {
+          "id": "DEMO-P08",
+          "name": "Velocity Mobility Systems"
+        },
+        {
+          "id": "DEMO-P20",
+          "name": "Valor Flight Technologies"
+        },
+        {
+          "id": "DEMO-C06",
+          "name": "Titan Industrial Equipment"
+        },
+        {
+          "id": "DEMO-P17",
+          "name": "Astral Avionics Solutions"
+        },
+        {
+          "id": "DEMO-C07",
+          "name": "Pinnacle Engine Technologies"
+        },
+        {
+          "id": "DEMO-P10",
+          "name": "Zenith Transit Systems"
+        },
+        {
+          "id": "DEMO-P22",
+          "name": "Vector Tactical Communications"
+        },
+        {
+          "id": "DEMO-P27",
+          "name": "Stratos Rotorcraft Technologies"
+        }
+      ],
+      "sources": [
+        {
+          "account_id": "DEMO-P01",
+          "url": "https://www.aegisdynamics-demo.com/general-dynamics-land-systems-awarded-agreement-for-next-phase-in-advanced-reconnaissance-vehicle-competition/",
+          "summary": "Aegis Dynamics was awarded the next phase in the Advanced Reconnaissance Vehicle competition, a program advancing toward production with machined-component content, directly in the US ground combat vehicle scope."
+        },
+        {
+          "account_id": "DEMO-P01",
+          "url": "https://www.c4defence.com/en/aegis dynamics-usmc-arv-contract/",
+          "summary": "Aegis Dynamics won a $450M USMC Advanced Reconnaissance Vehicle contract, an announced program award entering production with machined-component content, in scope for US ground vehicles."
+        },
+        {
+          "account_id": "DEMO-C11",
+          "url": "https://www.vanguardsystems-demo.com/en-us/news/features/2026/scaling-up-javelin-supply-chain-redefining-ramped-missile-production.html",
+          "summary": "Vanguard Systems detailed scaling up the Javelin missile supply chain due to increased global demand, indicating a production ramp on an existing missile platform."
+        },
+        {
+          "account_id": "DEMO-C05",
+          "url": "https://www.ir-ia.com/news/us-army-awards-bae-systems-535-million-contract-for-paladin-self-propelled-howitzers-and-ammunition-carriers/",
+          "summary": "Sentinel Defense secured a $535M contract for additional M109A7 Paladin howitzer production, an announced production-rate increase on an existing platform."
+        },
+        {
+          "account_id": "DEMO-C05",
+          "url": "https://thedefensepost.com/2026/04/06/bae-m777-barrel-production/",
+          "summary": "Sentinel Defense Technologies won a $145.83 million contract to boost M777/M776 cannon tube barrel production, indicating a production ramp for existing platform components."
+        }
+      ]
+    },
+    {
+      "id": "trend:capacity-constraint",
+      "label": "Capacity constraint",
+      "accounts": [
+        {
+          "id": "DEMO-C11",
+          "name": "Vanguard Precision Systems"
+        },
+        {
+          "id": "DEMO-C05",
+          "name": "Sentinel Defense Technologies"
+        },
+        {
+          "id": "DEMO-C03",
+          "name": "Apex Motion Dynamics"
+        },
+        {
+          "id": "DEMO-C02",
+          "name": "Helios Turbine Systems"
+        },
+        {
+          "id": "DEMO-P02",
+          "name": "Horizon Aerospace & Defense"
+        },
+        {
+          "id": "DEMO-P14",
+          "name": "Orbit Space Technologies"
+        },
+        {
+          "id": "DEMO-P16",
+          "name": "Stellar Propulsion Dynamics"
+        },
+        {
+          "id": "DEMO-P06",
+          "name": "Sovereign Power Systems"
+        },
+        {
+          "id": "DEMO-P24",
+          "name": "Advanced Alloy Technologies"
+        },
+        {
+          "id": "DEMO-C04",
+          "name": "Meridian Propulsion Solutions"
+        },
+        {
+          "id": "DEMO-P08",
+          "name": "Velocity Mobility Systems"
+        },
+        {
+          "id": "DEMO-P20",
+          "name": "Valor Flight Technologies"
+        },
+        {
+          "id": "DEMO-C06",
+          "name": "Titan Industrial Equipment"
+        },
+        {
+          "id": "DEMO-P17",
+          "name": "Astral Avionics Solutions"
+        },
+        {
+          "id": "DEMO-C07",
+          "name": "Pinnacle Engine Technologies"
+        },
+        {
+          "id": "DEMO-P10",
+          "name": "Zenith Transit Systems"
+        },
+        {
+          "id": "DEMO-P22",
+          "name": "Vector Tactical Communications"
+        },
+        {
+          "id": "DEMO-C01",
+          "name": "Orion Transit Dynamics"
+        }
+      ],
+      "sources": [
+        {
+          "account_id": "DEMO-C11",
+          "url": "https://www.airandspaceforces.com/lockheed-opens-scalable-facility-next-generation-interceptor/",
+          "summary": "Lockheed opened a new scalable factory for the Next Generation Interceptor, an announced capacity expansion within the last 6 months tied to missile defense production ramp."
+        },
+        {
+          "account_id": "DEMO-C11",
+          "url": "https://205focus.com/lockheed-martin-breaks-ground-on-new-alabama-missile-production-center-1052",
+          "summary": "Vanguard Systems broke ground on a new Alabama missile production center, a recent, specific capacity expansion announcement."
+        },
+        {
+          "account_id": "DEMO-C05",
+          "url": "https://www.morningstar.com/news/pr-newswire/20260520ne64191/bae-systems-invests-135-million-in-facility-upgrades-to-enhance-us-military-readiness",
+          "summary": "Sentinel Defense announced a $135 million investment in facility upgrades to enhance U.S. military production readiness, indicating capacity expansion tied to demand."
+        },
+        {
+          "account_id": "DEMO-C03",
+          "url": "https://airpronews.com/2025/09/19/apex motion-inc-200-million-aerospace-investment-in-south-carolina/",
+          "summary": "Apex Motion announced a $200 million capacity expansion investment in South Carolina for aerospace manufacturing, indicating a significant production ramp within the last year."
+        },
+        {
+          "account_id": "DEMO-C03",
+          "url": "https://www.apexmotion-demo.com/press-release/apex motion-to-build-a-300000-square-foot-manufacturing-facility-for-aircraft-spoiler-actuation-systems-in-spartanburg-county-south-carolina/",
+          "summary": "Apex Motion is building a new 300,000 sq ft facility for aircraft spoiler actuation systems, indicating capacity growth tied to a specific program ramp."
+        }
+      ]
+    },
+    {
+      "id": "trend:market-tailwind",
+      "label": "Market tailwind",
+      "accounts": [
+        {
+          "id": "DEMO-P01",
+          "name": "Aegis Ground Dynamics"
+        },
+        {
+          "id": "DEMO-C11",
+          "name": "Vanguard Precision Systems"
+        },
+        {
+          "id": "DEMO-C03",
+          "name": "Apex Motion Dynamics"
+        },
+        {
+          "id": "DEMO-C02",
+          "name": "Helios Turbine Systems"
+        },
+        {
+          "id": "DEMO-P02",
+          "name": "Horizon Aerospace & Defense"
+        },
+        {
+          "id": "DEMO-P14",
+          "name": "Orbit Space Technologies"
+        },
+        {
+          "id": "DEMO-P16",
+          "name": "Stellar Propulsion Dynamics"
+        },
+        {
+          "id": "DEMO-P24",
+          "name": "Advanced Alloy Technologies"
+        },
+        {
+          "id": "DEMO-P08",
+          "name": "Velocity Mobility Systems"
+        },
+        {
+          "id": "DEMO-P20",
+          "name": "Valor Flight Technologies"
+        },
+        {
+          "id": "DEMO-C06",
+          "name": "Titan Industrial Equipment"
+        },
+        {
+          "id": "DEMO-C07",
+          "name": "Pinnacle Engine Technologies"
+        },
+        {
+          "id": "DEMO-P22",
+          "name": "Vector Tactical Communications"
+        },
+        {
+          "id": "DEMO-P27",
+          "name": "Stratos Rotorcraft Technologies"
+        }
+      ],
+      "sources": [
+        {
+          "account_id": "DEMO-P01",
+          "url": "https://www.thedefensenews.com/US-Defense-Budget-Requests-168-Billion-for-Land-Power-Modernization-of-Armored-Vehicles-in-FY2027/",
+          "summary": "The FY2027 US defense budget request allocates $16.8 billion for Land Power modernization of armored vehicles, a funded sector expansion directly benefiting Aegis Dynamics's core ground combat vehicle business."
+        },
+        {
+          "account_id": "DEMO-P01",
+          "url": "https://breakingdefense.com/2026/04/army-unveils-sweeping-xm30-push-4b-bet-on-ngc2-in-newly-released-budget-materials/",
+          "summary": "Army budget materials reveal a sweeping XM30 push with a $4B bet, reflecting sector-level funded growth directly relevant to Aegis Dynamics's ground vehicle segment."
+        },
+        {
+          "account_id": "DEMO-C11",
+          "url": "https://congress.net/lockheed-martin-lmt-missile-defense-portfolio-positions-company-for-long-term-growth/",
+          "summary": "Article explicitly names Vanguard Systems as one of the clearest beneficiaries of surging global defense spending, particularly in air and missile defense."
+        },
+        {
+          "account_id": "DEMO-C11",
+          "url": "https://www.shephardmedia.com/news/defence-notes/us-seeks-to-increase-missile-defence-budget-by-32-in-fy2027-approaching-53-billion/",
+          "summary": "US seeks a 32% boost to the missile defense budget with $23B earmarked specifically for interceptors, a funded sector expansion directly benefiting Vanguard Systems's missile defense segment."
+        },
+        {
+          "account_id": "DEMO-C03",
+          "url": "https://everyticker.com/quote/WWD/apex motion-s-strategic-metamorphosis-how-portfolio-surgery-and-aerospace-aftermarket-dominance-are-driving-a-margin-inflection-nasdaq-wwd",
+          "summary": "Analysis describes Apex Motion benefiting from aerospace aftermarket demand strength and a broader sector margin inflection, tying macro aerospace tailwinds directly to Apex Motion's segment performance."
+        }
+      ]
+    },
+    {
+      "id": "trend:buying-center-change",
+      "label": "Buying-center change",
+      "accounts": [
+        {
+          "id": "DEMO-P01",
+          "name": "Aegis Ground Dynamics"
+        },
+        {
+          "id": "DEMO-C05",
+          "name": "Sentinel Defense Technologies"
+        },
+        {
+          "id": "DEMO-C03",
+          "name": "Apex Motion Dynamics"
+        },
+        {
+          "id": "DEMO-C02",
+          "name": "Helios Turbine Systems"
+        },
+        {
+          "id": "DEMO-P14",
+          "name": "Orbit Space Technologies"
+        },
+        {
+          "id": "DEMO-P16",
+          "name": "Stellar Propulsion Dynamics"
+        },
+        {
+          "id": "DEMO-P06",
+          "name": "Sovereign Power Systems"
+        },
+        {
+          "id": "DEMO-C04",
+          "name": "Meridian Propulsion Solutions"
+        },
+        {
+          "id": "DEMO-P08",
+          "name": "Velocity Mobility Systems"
+        },
+        {
+          "id": "DEMO-C06",
+          "name": "Titan Industrial Equipment"
+        },
+        {
+          "id": "DEMO-P17",
+          "name": "Astral Avionics Solutions"
+        },
+        {
+          "id": "DEMO-C07",
+          "name": "Pinnacle Engine Technologies"
+        },
+        {
+          "id": "DEMO-P10",
+          "name": "Zenith Transit Systems"
+        },
+        {
+          "id": "DEMO-P22",
+          "name": "Vector Tactical Communications"
+        }
+      ],
+      "sources": [
+        {
+          "account_id": "DEMO-P01",
+          "url": "https://linkedin.com/in/george-hawke-68989221",
+          "summary": "George Hawke, former Director of Global Supply Chain Management at Aegis Dynamics, is listed as retired, indicating departure of an incumbent buying-center leader without a confirmed successor named in evidence."
+        },
+        {
+          "account_id": "DEMO-C05",
+          "url": "https://www.businesswire.com/news/home/20251124545595/en/BAE-Systems-Names-Brad-Pelachyk-Senior-Vice-President-and-Chief-Global-Supply-Chain-Officer",
+          "summary": "Sentinel Defense named Brad Pelachyk as SVP and Chief Global Supply Chain Officer, a buying-center leadership appointment within the last 12 months."
+        },
+        {
+          "account_id": "DEMO-C03",
+          "url": "https://linkedin.com/in/sam-kerns-b4a9a811",
+          "summary": "Sam Kerns is listed as VP Supply Chain at Apex Motion; profile indicates an existing/current supply-chain leadership presence relevant to buying-center dynamics, though the exact appointment date is unclear."
+        },
+        {
+          "account_id": "DEMO-C03",
+          "url": "https://finance.yahoo.com/news/shawn-mclevige-appointed-president-apex motion-201500607.html",
+          "summary": "Shawn McLevige was appointed President of Apex Motion's Aerospace Segment, a division-head-level leadership change that could reset relationships in the served aerospace segment, but is broader than a pure sourcing/procurement role so capped at Medium."
+        },
+        {
+          "account_id": "DEMO-C02",
+          "url": "https://linkedin.com/in/william-watkins-7aa954",
+          "summary": "LinkedIn profile shows William Watkins as Director, Global Supply Chain Management at Helios Turbine Systems starting January 2024, indicating a relatively recent buying-center leadership placement."
+        }
+      ]
+    },
+    {
+      "id": "trend:supplier-disruption",
+      "label": "Supplier disruption",
+      "accounts": [
+        {
+          "id": "DEMO-C11",
+          "name": "Vanguard Precision Systems"
+        },
+        {
+          "id": "DEMO-P16",
+          "name": "Stellar Propulsion Dynamics"
+        },
+        {
+          "id": "DEMO-P10",
+          "name": "Zenith Transit Systems"
+        },
+        {
+          "id": "DEMO-C01",
+          "name": "Orion Transit Dynamics"
+        },
+        {
+          "id": "DEMO-P27",
+          "name": "Stratos Rotorcraft Technologies"
+        }
+      ],
+      "sources": [
+        {
+          "account_id": "DEMO-C11",
+          "url": "https://news.bloomberglaw.com/federal-contracting/army-says-quality-defects-slowing-lockheed-hypersonic-missile",
+          "summary": "Army official stated 'quality defects' are delaying deliveries of Lockheed's hypersonic missile program, with manufacturing improvement efforts underway - a direct supplier/manufacturing quality issue affecting production."
+        },
+        {
+          "account_id": "DEMO-P16",
+          "url": "https://breakingdefense.com/2026/01/with-the-boom-for-solid-rocket-motors-for-missiles-a-perilous-crunch-in-the-supply-chain/",
+          "summary": "Reports describe a supply chain crunch in solid rocket motor production affecting manufacturers including Stellar Propulsion Dynamics/Vector Tactical Communications, with resourcing pressure plausible though not confirmed as a specific supplier failure."
+        },
+        {
+          "account_id": "DEMO-P10",
+          "url": "https://www.bbc.co.uk/news/articles/c330vd1zj27o",
+          "summary": "East Midlands Railway reduced services due to numerous problems with new Zenith Transit-built Aurora (Class 810) trains, indicating production/quality issues affecting a named Zenith Transit Systems platform."
+        },
+        {
+          "account_id": "DEMO-C01",
+          "url": "https://jobs.orion transit.com/de_DE/externaljobs/JobDetail/497266",
+          "summary": "Active hiring for a Supplier Quality Engineer covering machining, welding, brazing, and fabrication processes suggests possible requalification/resourcing activity related to supplier quality issues, though not confirmed as a specific failure."
+        },
+        {
+          "account_id": "DEMO-C01",
+          "url": "https://www.linkedin.com/in/sureshchohan",
+          "summary": "Director of Planning, Production Control & Supplier Order Management role based in Folsom, CA (in-scope operations) indicates active supplier order management function, but no specific disruption event is confirmed."
+        }
+      ]
+    },
+    {
+      "id": "trend:competitor-adjacency",
+      "label": "Competitor adjacency",
+      "accounts": [
+        {
+          "id": "DEMO-P01",
+          "name": "Aegis Ground Dynamics"
+        },
+        {
+          "id": "DEMO-C05",
+          "name": "Sentinel Defense Technologies"
+        }
+      ],
+      "sources": [
+        {
+          "account_id": "DEMO-P01",
+          "url": "https://breakingdefense.com/2026/06/oshkosh-eyes-potential-marine-jltv-deal-citing-growing-readiness-gaps-under-current-contract/",
+          "summary": "Oshkosh Defense, a named Aegis Dynamics peer, cited readiness gaps and eyed a potential new JLTV deal, signaling supply/production strain among ground vehicle peers that could point to similar vulnerabilities or dual-source openings."
+        },
+        {
+          "account_id": "DEMO-C05",
+          "url": "https://breakingdefense.com/2026/06/oshkosh-eyes-potential-marine-jltv-deal-citing-growing-readiness-gaps-under-current-contract/",
+          "summary": "Oshkosh cites growing readiness gaps under its current Marine JLTV contract, indicating peer land-vehicle manufacturers facing production/supply strain adjacent to BAE's segment."
+        }
+      ]
+    }
+  ]
+}

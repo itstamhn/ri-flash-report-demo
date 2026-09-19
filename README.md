@@ -34,3 +34,19 @@ Then visit `http://localhost:8000/flash-report/` or `http://localhost:8000/`.
 ```bash
 vercel deploy --prod
 ```
+
+## Pushing to Your Own GitHub Account
+
+To host this codebase under your personal GitHub account:
+
+```bash
+# 1. In this folder:
+git init
+git add .
+git commit -m "Initial commit: RevenueInsight Flash Report & Account Intelligence Demo"
+
+# 2. Link your remote and push:
+git branch -M main
+git remote add origin https://github.com/BWItonsky/<your-repo-name>.git
+git push -u origin main
+```

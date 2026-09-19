@@ -109,3 +109,21 @@
   line-height: 1.4;
   border-left: 4px solid #6366f1;
 }
+.brand__logo--ri {
+  height: 22px !important;
+  width: auto !important;
+  max-width: 170px !important;
+  vertical-align: middle;
+}
+.header-logo-inline {
+  font-weight: 800;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  margin-left: 4px;
+}
+.index-logo {
+  height: 38px !important;
+  width: auto !important;
+  margin-bottom: 24px !important;
+}

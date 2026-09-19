@@ -1833,7 +1833,7 @@
     {
       "from": "DEMO-P01:contact:1",
       "to": "DEMO-P01",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -2107,7 +2107,7 @@
     {
       "from": "DEMO-C03:contact:1",
       "to": "DEMO-C03",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -2371,7 +2371,7 @@
     {
       "from": "DEMO-P14:contact:2",
       "to": "DEMO-P14",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -2449,7 +2449,7 @@
     {
       "from": "DEMO-P16:contact:1",
       "to": "DEMO-P16",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -2541,7 +2541,7 @@
     {
       "from": "DEMO-P06:contact:1",
       "to": "DEMO-P06",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -2645,19 +2645,19 @@
     {
       "from": "DEMO-P24:contact:2",
       "to": "DEMO-P24",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
       "from": "DEMO-P24:contact:3",
       "to": "DEMO-P24",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
       "from": "DEMO-P24:contact:4",
       "to": "DEMO-P24",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -2863,7 +2863,7 @@
     {
       "from": "DEMO-P20:contact:1",
       "to": "DEMO-P20",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -3009,7 +3009,7 @@
     {
       "from": "DEMO-P17:contact:1",
       "to": "DEMO-P17",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -3233,7 +3233,7 @@
     {
       "from": "DEMO-P22:contact:1",
       "to": "DEMO-P22",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
@@ -3373,7 +3373,7 @@
     {
       "from": "DEMO-P27:contact:1",
       "to": "DEMO-P27",
-      "type": "KNOWN_BY_ACME",
+      "type": "KNOWN_RELATIONSHIP",
       "source_url": null
     },
     {
